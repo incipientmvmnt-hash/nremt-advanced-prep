@@ -799,7 +799,7 @@ function renderQuestion(){
   document.getElementById('submitBtn').style.display='';
   document.getElementById('nextBtn').style.display='none';
   document.getElementById('qExplanation').style.display='none';
-  document.getElementById('qText').textContent=q.question;
+  document.getElementById('qText').textContent=q.question||q.stem;
   document.getElementById('qHint').style.display='none';
 
   // Scenario
@@ -1033,7 +1033,7 @@ function submitAnswer(){
   const exp=document.getElementById('qExplanation');
   exp.style.display='';
   let expHTML=`<div class="explanation ${correct?'':'wrong'}"><h4>${correct?'Correct':'Incorrect'}</h4><p>${q.explanation}</p></div>`;
-  if(q.pearl) expHTML+=`<div class="pearl"><strong>Clinical Pearl:</strong> ${q.pearl}</div>`;
+  const pearl=q.pearl||q.clinical_pearl;if(pearl) expHTML+=`<div class="pearl"><strong>Clinical Pearl:</strong> ${pearl}</div>`;
   exp.innerHTML=expHTML;
 
   document.getElementById('submitBtn').style.display='none';
@@ -1068,7 +1068,7 @@ function showResults(){
   const rl=document.getElementById('reviewList');rl.innerHTML='';
   answers.forEach((a,i)=>{
     const q=quizQs[i];
-    const qText=q.question.length>80?q.question.substring(0,80)+'...':q.question;
+    const qRaw=q.question||q.stem;const qText=qRaw.length>80?qRaw.substring(0,80)+'...':qRaw;
     const expText=q.explanation.length>120?q.explanation.substring(0,120)+'...':q.explanation;
     rl.innerHTML+=`<div class="review-item ${a.correct?'rev-correct':'rev-wrong'}"><div class="review-q">${a.correct?'Correct':'Incorrect'} — Q${i+1}: ${qText}</div><div class="review-a">${expText}</div></div>`;
   });
