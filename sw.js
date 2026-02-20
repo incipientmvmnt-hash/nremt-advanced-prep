@@ -1,4 +1,4 @@
-const CACHE_NAME = 'nremt-prep-v1';
+const CACHE_NAME = 'nremt-prep-v2';
 
 self.addEventListener('install', e => {
   self.skipWaiting();

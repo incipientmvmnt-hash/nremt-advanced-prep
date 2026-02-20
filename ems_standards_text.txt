@@ -1,0 +1,3103 @@
+2021
+NATIONAL EMERGENCY MEDICAL SERVICES
+EDUCATION STANDARDS
+
+This publication is distributed by the U.S. Department of
+Transportation (DOT), National Highway Traffic Safety
+Administration (NHTSA), in the interest of information exchange.
+The contents of this document do not have the force and effect of
+law and are not meant to bind the public in any way. This document
+is intended only to provide clarity to the public regarding existing
+requirements under the law or agency policies.
+The United States Government assumes no liability for its content
+or use thereof. If trade or manufacturers’ names or products are
+mentioned, it is because they are considered essential to the object
+of the publication and should not be construed as an endorsement.
+The United States Government does not endorse products or
+manufacturers.
+National EMS Education Standards 2021. Washington, DC:
+National Highway Traffic Safety Administration.
+
+Technical Report Documentation Page
+
+Table of Contents
+Executive Summary ................................................................................................................................................... 3
+Introduction and the Evolution of EMS in the United States .................................................................................. 5
+About the Revised EMS Education Standards ......................................................................................................... 15
+Summary of Significant Changes to the EMS Education Standards ...................................................................... 23
+National EMS Education Standards .......................................................................................................................... 28
+Preparatory ........................................................................................................................................................... 28
+Anatomy and Physiology ....................................................................................................................................... 31
+Medical Terminology .............................................................................................................................................. 31
+Pathophysiology .................................................................................................................................................... 31
+Life Span Development ......................................................................................................................................... 31
+Public Health .......................................................................................................................................................... 32
+Pharmacology ........................................................................................................................................................ 33
+Airway Management, Respiration and Artificial Ventilation ................................................................................... 35
+Assessment ........................................................................................................................................................... 36
+Medicine ................................................................................................................................................................. 38
+Shock and Resuscitation ....................................................................................................................................... 45
+Trauma .................................................................................................................................................................. 46
+Special Patient Populations ................................................................................................................................... 50
+EMS Operations ..................................................................................................................................................... 52
+Clinical Behavior/Judgment ................................................................................................................................... 54
+Educational Infrastructure ...................................................................................................................................... 56
+Glossary ....................................................................................................................................................................... 59
+References ................................................................................................................................................................... 62
+Acknowledgements and Stakeholder Input .............................................................................................................. 63
+Appendix A: Resources for EMS .............................................................................................................................. 65
+2
+
+Back to Table of Contents >
+Executive Summary
+In 2009, the EMS community came together to create the The following areas within the Standards had notable revisions:
+original National EMS Education Standards (the Standards). public health; pediatrics; geriatrics, behavioral/psychiatric; cultural
+This represented a major step toward realizing the vision put humility; EMS operations; pharmacology; and EMS safety,
+forth in the 1996 EMS Agenda for the Future and was further wellness and resilience. Input was provided and every suggestion
+outlined in the EMS Education Agenda for the Future: A Systems or recommendation was considered. Revision and adjustments
+Approach four years later. This new version of the Standards were based on a team discussion, with expert consultation when
+builds on the foundation created by those landmark documents needed.
+and other achievements of the last quarter-century, including
+EMS Agenda 2050 and the National Scope of Practice Model. When applying the Standards to individual programs and
+classes, EMS educators have the freedom to develop their own
+The National EMS Education Standards outline the minimal curricula or use any of the wide variety of lesson plans and
+competencies for entry-level EMS clinicians to perform their instructional resources that are available. This ensures that
+roles as outlined in the 2019 and 2021* updated National each program can specifically address individual and community
+EMS Scope of Practice Model. The Standards, while a needs.
+national effort, were intentionally created in a way that allows
+for diverse implementation methods to meet local needs The Standards are not intended to stand as a comprehensive
+and evolving educational practices. This less prescriptive document guiding the entire development of EMS clinicians,
+format of the Standards allows for ongoing revision of EMS but rather one part of a comprehensive system. EMS education
+educational content consistent with scientific evidence, programs will incorporate each element of the education system
+educational practices, and community standards of care. proposed in the Education Agenda.
+Noteworthy revisions found in the 2021 edition of the Standards These elements include:
+are based upon input and considerations obtained from
+• National EMS Core Content
+numerous sources. These include stakeholder and public
+• National EMS Scope of Practice Model
+comments, national guidance documents (the original 2009
+National EMS Education Standards, EMS Agenda 2050, and • National EMS Education Standards
+the 2019 and 2021* updated National Scope of Practice Model),
+• National EMS Certification
+the National Registry of EMT’s practice analysis, technological
+• National EMS Program Accreditation
+advances, known and evolving best practices, and evidence-
+based medicine.
+This integrated system approach to EMS education is essential
+to achieving the goal of developing EMS clinicians across the
+* As a result of the 2020-21 public health emergency, several changes were made under the country who are competent in the appropriate knowledge, skills,
+urgent update process to the 2019 National EMS Scope of Practice Model which are reflected in
+and abilities for their licensure level.
+these education standards.
+3
+
+Back to Table of Contents >
+Revision Process
+Distributed to
+Stakeholders & Revision/
+Public for Additional Adjustment
+Comment and
+Transparency
+Team
+Evaluation &
+Expert
+Consensus
+January 2019 March 2021
+Project Commencement Project Completion
+Inputs
+Stakeholder Comments NREMT Practice Analysis
+Public Comments Evidence-Based Medicine
+Technological Advances Known/Evolving Best Practices
+Related Government Resource Documents
+4
+
+Back to Table of Contents >
+Introduction and the Evolution of EMS in the United States
+EMS has evolved and grown significantly since the first organized, The Agenda was designed to guide government and private
+national effort to develop EMS systems began in the 1960s. organizations in EMS planning, development, and policymaking
+Compared to colleagues in health care and public safety, at the national, state and local levels. It addressed 14 attributes of
+EMS remains a young profession and continues to advance EMS, including the EMS education system, and defined a vision for
+as we further define and enhance our structure, oversight and EMS education “based on research” and “conducted by qualified
+organization. instructors” while employing “sound educational principles.”
+As EMS system operations have developed, so has EMS EMS Education Conference
+education. In the early 1970s, registered nurses and physicians
+taught most EMS programs. Few student and instructor Soon after publication of the Agenda, representatives of
+resources related directly to prehospital emergency care. No 30 EMS-related organizations met at an EMS Education
+standards existed to define what EMS clinicians should know Conference sponsored by NHTSA to identify the necessary
+and what they should be able to do. By the early 2000s, most steps for implementing that vision.
+of this original framework was being replaced, and national
+education standards and a scope of practice were defined The EMS Education Conference resulted in several
+for the first time. Today, the profession has become more recommendations, including:
+sophisticated, and community expectations have increased.
+• The National EMS Education and Practice Blueprint (the
+With health care, technology and science evolving faster than
+Blueprint) is a valuable component of the EMS education
+ever, it is also important to revisit these topics and update these
+system. A multidisciplinary panel, led by NHTSA, to
+guidelines more frequently.
+identify core educational content more explicitly for each
+licensure level, should revise it.
+EMS Agenda for the Future
+• National EMS Education Standards are necessary
+In August 1996, the EMS Agenda for the Future (the Agenda)
+but need not include specific declarative material or
+was published. Developed with funding from the National
+lesson plans. NHTSA should support and facilitate the
+Highway Traffic Safety Administration and the Health Resources
+development of national EMS Education Standards.
+and Services Administration, and led by the National Association
+of EMS Physicians and the National Association of State EMS • The Blueprint and national EMS Education Standards
+Directors, the Agenda brought together stakeholders from should be revised periodically, with major revisions
+throughout EMS to create a unifying vision for emergency occurring every 5 to 7 years, and minor updates made
+medical services in the United States. every 2 to 3 years.
+5
+
+Back to Table of Contents >
+EMS Education Agenda for the Future National EMS Core Content
+In 1998, NHTSA convened a group of educators who developed The National EMS Core Content was published in 2005. Core
+a document titled EMS Education Agenda for the Future: A Content defines the entire domain of out-of-hospital practice and
+Systems Approach (the Education Agenda). The EMS education identifies the universal body of knowledge and skills for EMS
+system envisioned in the EMS Agenda for the Future was clinicians who do not function as independent practitioners.
+further defined and articulated in the Education Agenda (see
+Figure 1). The Education Agenda’s authors also stated that, Funded by NHTSA and HRSA, this project was led by the
+to be most effective, each component in the EMS education National Association of EMS Physicians and the American
+system should be structured, coordinated and interdependent. College of Emergency Physicians.
+EMS Education Agenda for the Future: A Systems Approach
+The Universe of EMS
+National EMS Core Content
+Knowledge and Skills
+Periodic updates
+Delineation of provider
+National EMS Scope of Practice of these three
+practice levels
+documents
+Delineation of provider
+National EMS Education Standards
+educational competencies
+National EMS Certification National EMS Education Program Accreditation
+A single agency for each function – Standard exam, minimum competence, consumer protection
+Figure 1: Model EMS System
+6
+
+Back to Table of Contents >
+National EMS Scope of Practice not to update the separate Instructional Guidelines for each
+clinician level originally published as companion documents to the
+The National EMS Scope of Practice Model (the Scope of 2009 Standards. Instead, the Instructional Guidelines have been
+Practice) is a consensus document that was published in incorporated within the Standards, replacing the need for those
+2007 and revised in 2019. This document defines four levels supplemental materials.
+of EMS licensure—emergency medical responder (EMR),
+emergency medical technician (EMT), advanced emergency National EMS certification and national EMS education
+medical technician (AEMT) and paramedic—and delineates the program accreditation are the “bookends” that support the
+practices and minimum competencies for each level. The Scope other key elements of the system. The Education Agenda
+of Practice does not have regulatory authority but provides recommended an individual should graduate from a nationally
+guidance to states. Adherence to the Scope of Practice would accredited EMS education program to be eligible for National
+increase uniformity in EMS practice throughout the U.S. and EMS Certification. Essential components of the EMS
+facilitate reciprocity between states. Leadership for this project Agenda include a single National EMS Accreditation Agency
+was delegated to the National Association of State EMS Officials and a single National EMS Certification Agency to ensure
+and funded by NHTSA and HRSA. consistency and quality of EMS personnel.
+The Scope of Practice further defines practice, suggests
+minimum educational preparation, and designates appropriate
+psychomotor skills at each level of licensure. Further, the
+document describes each level of licensure as distinct
+and distinguished by unique “skills, practice environment,
+knowledge, qualifications, services provided, risk, level of
+supervisory responsibility, and amount of autonomy and
+judgment/critical thinking/decision-making.”
+National EMS Education Standards
+The National EMS Education Standards replaced the NHTSA
+National Standard Curricula at all licensure levels when first
+published in 2009. The Standards define the competencies, clinical
+behaviors, and judgments that should be met by entry-level EMS
+clinicians to meet practice guidelines defined in the Scope of
+Practice. Content and concepts defined in the National EMS Core
+Content are also integrated within the Standards. Leadership for
+this project was delegated to the RedFlash Group and National
+Association of EMS Educators, and funded by NHTSA and HRSA.
+With input from a large number of stakeholders, the team chose
+7
+
+Back to Table of Contents >
+8
+s0791
+Robert Wood
+Johnson Foundation
+and Federal
+Government
+Funded regional EMS
+systems and
+demonstration projects
+s0591
+0691
+6691
+6691
+National Academy of
+Science published
+Highway Safety
+Accidental Death and
+Act of 1966
+President’s Committee Disability: The Neglected
+American College for Traffic Safety Disease of Modern Society Required each State
+to adopt highway
+of Surgeons
+Recognized the need Quantified the scope of safety programs to
+Developed the first to address emergency traffic-related death in the U.S., comply with federal
+training program for care in reducing traffic including the deficiencies in standards, including
+ambulance attendants fatalities prehospital care “emergency services”
+s0791
+3791
+A Brief History of EMS Education in the United States
+This timeline outlines key events in the development of EMS education in the United States
+from the 1950s to the present.
+Emergency Medical Services Act of
+1973 enacted by Congress as Title XII
+Crash Injury of the Public Health Services Act
+Management for the
+Provided more than $300 million in
+Law Enforcement Officer EMS funding over 8 years that allowed
+for EMS system planning and
+published by NHTSA
+implementation, mandated states to
+40-hour program that focus on EMS personnel and training,
+evolved into First and resulted in legislation and
+Responder: NSC in 1979 regulation of EMS personnel levels
+0791
+National Registry
+of EMTs (NREMT)
+Held first board
+meeting, with goal to
+provide uniform
+standards for
+credentialing
+ambulance
+attendants
+1791
+Emergency Care and
+Transportation of the
+Sick and Injured
+published by the
+American Academy of
+Orthopedic Surgeons (AAOS)
+One of the first EMS
+textbooks
+
+Back to Table of Contents >
+9
+5791 American Medical
+Association (AMA)
+Recognized EMT-Paramedic
+as an allied health occupation
+7791
+8791 5891
+0991
+The Essentials for
+Paramedic Program First Responder,
+Accreditation EMT-Ambulance (EMT-A),
+National Standard
+developed by AMA EMT-Intermediate (EMT-I), NHTSA hosts EMS
+Curriculum (NSC) for
+and EMT-Paramedic Training Workshop
+EMT-Paramedic Joint Review Committee
+published by NHTSA on Education Programs (EMT-P): NSC revised by Facilitated the development
+for the EMT-Paramedic NHTSA of the 1990s curricula and
+The original NSC (JRCEMT-P) adopted introduced the
+consisted of 15 The Essentials as the EMT-Paramedic reformatted assessment-based
+instructional modules standard for accreditation into six divisions education concept
+4991
+4991
+5991 First Responder:
+NSC is revised
+2991 EMS Education and
+Practice Blueprint
+Document served as a template
+for the revised format of the
+1990s NSC revision projects
+6991
+EMS Agenda for the
+Future is created
+Vision statement
+NREMT Practice Analysis
+created by NAEMSP
+Determined frequency and NASEMSO for
+and criticality of EMS integration of EMS
+interventions, and into the health care
+provided the foundation system; funded by
+for NREMT test blueprint NHTSA and HRSA
+8991
+PEW Health Professions
+Commission Taskforce on Health
+EMT-A revised and
+Care Workforce Regulation
+renamed EMT-Basic
+published Strengthening Consumer
+(EMT-B): NSC
+Protection: Priorities for Health
+Care Workforce Regulation
+Recommended a National Policy
+Advisory Board to establish
+standards and model legislative
+language for uniform scope of
+practice authority for health
+professions
+
+Back to Table of Contents >
+10
+9102 9102
+1202
+National EMS Education Standards
+National EMS Scope of Practice
+EMS Agenda revised and published by NHTSA
+Model revised and published
+by NHTSA 2050 National guideline to define the entry-level
+A people-centered, education requirement for each level of EMS
+The document adjusted for clinician. The document contains revised education community-driven
+changes in EMS delivery and standards reflecting the EMS Agenda 2050,
+vision document
+made revisions between the National EMS Scope of Practice Model (as
+describing EMS
+first edition (2007) and current updated), advances in technology, evidence-based
+in the future
+times (2019) medicine and evolving known best practices.
+6002
+7002
+9102
+9002
+2019
+Practice
+Analysis
+conducted
+by NREMT
+8991 EMT-P:
+NSC revised
+9991 EMT-I:
+NSC revised
+0002
+Education Agenda for
+the Future: A Systems
+Approach published
+by NHTSA
+Funded by NHTSA and
+HRSA, developed an
+integrated system of EMS
+regulation, certification
+and licensure
+4002
+2004 National EMS Practice
+Analysis published by NREMT
+Updated the 1994 Practice
+Analysis
+5002
+5002 The State of EMS Education EMS
+Research Project: Characteristics of
+EMS Educators by Ruple et al. in
+National EMS Core Content Prehospital Emergency Care
+published by NHTSA and HRSA
+Research related to identifying
+Defines the EMS personnel characteristics of EMS instructors,
+domain of knowledge described describing infrastructure available
+in the National Scope of Practice, to instructors, and identifying
+and the universal knowledge and instructor attributes necessary for
+skills of EMS personnel implementing education standards
+EMS at the Crossroads Institute National EMS Education
+of Medicine Report Standards published by NHTSA
+National EMS Scope of Practice
+Among other recommendations, required National set of guidelines that
+Model published by NHTSA
+national accreditation of paramedic defined the entry-level education
+programs, adopting a common scope of National guidelines based requirement for each level of
+practice for EMS personnel with state on the National EMS Core EMS clinician, and contained four
+licensing reciprocity and national certification Content that defined levels companion Instructional Guideline
+as a prerequisite for state licensure and local of EMS licensure and their documents to assist educators in
+credentialing of EMS providers scopes of practice transitioning from the NSC
+
+Back to Table of Contents >
+The National EMS Education Standards
+Each statement in the The National EMS Education Standards is comprised of four components (Table 1):
+Standards presumes that
+the expected knowledge 1. Competency (yellow) – This statement 3. Clinical Behaviors/Judgments (green) – This
+and behaviors are within represents the minimum competency required for section describes the clinical behaviors and
+the scope of practice for entry-level clinicians at each licensure level. judgments essential for entry-level EMS clinicians
+that EMS licensure level, as 2. Knowledge (blue) – This represents an at each licensure level.
+defined by the National EMS elaboration of the knowledge within each 4. Educational Infrastructure (gray) – This section
+Scope of Practice Model. competency (when appropriate) that entry-level describes the support standards necessary
+Each competency applies to clinicians would need to master to achieve for conducting EMS training programs at each
+patients of all ages. competency. licensure level.
+The Standards also assume
+there is a progression in
+practice from the emergency
+Table 1: Format of National EMS Education Standards
+medical responder level to
+the paramedic level. That is,
+EMR EMT AEMT Paramedic
+licensed personnel at each
+level are responsible for all
+Content Area Competency Competency Competency Competency
+knowledge, judgments, and
+behaviors at their level and at
+Elaboration of Additional knowledge Additional knowledge Additional knowledge Additional knowledge
+all levels preceding their level.
+related to the competency related to the competency related to the competency related to the competency
+Knowledge
+For example, a paramedic is
+responsible for the knowledge Clinical behaviors and Clinical behaviors and Clinical behaviors and Clinical behaviors and
+and tasks described for the judgments judgments judgments judgments
+paramedic as well as the Educational Infrastructure Educational Infrastructure Educational Infrastructure Educational Infrastructure
+other three levels of licensure.
+11
+
+Back to Table of Contents >
+The descriptors used to illustrate the increasing complexity of a particular competency. For example, EMS instructors need
+knowledge and behaviors through the progression of licensure to ensure the emergency medical responder has a thorough
+levels originate, in part, from the National EMS Scope of Practice understanding of how to use the bag valve mask (BVM) safely
+Model. These terms reflect the differences in the breadth, depth and effectively. The amount of detail the instructor provides about
+and actions required at each licensure level (Figures 2 and 2.1). how to use that BVM represents the depth of knowledge. Some
+instructors might adjust their specific curriculum to provide slightly
+The depth of knowledge is the amount of detail a student needs more information about the BVM compared to other instructors,
+to know about a particular topic. The breadth of knowledge refers but every graduating EMR will know how to use the device.
+to the number of topics or issues a student needs to learn in
+Figure 2: Depth/Breadth Terminology
+Simple Breadth/ Foundational Breadth/ Comprehensive Breadth/
+Simple Depth Fundamental Depth Complex Depth
+Exten G s a iv th e e H rin is g tory Epidemiology
+Sign R s e & co S g y n m iz p e t s oms S A MPLE Sign R s e & co S g y n m iz p e t s oms OPQ R S T
+h
+o- S o c
+p
+i e a c l t s S A MPLE Sign R s e & co S g y n m iz p e t s oms OPQ R S T E xte n s iv e
+A
+Recognize Recognize P s y c A s Recognize n a to
+m
+y
+R Ad e j a u s s B t s T e a h s s R e e s e d ra c o p a n y ll R P M r e a o c n t a o a l c g l o e A l m c | T e ti h n o e t n ory P a th o p h ysio L l im o it g e d y R Ad e j a us s B t s T a e h s s R e e s e d ra c o p a n y ll R P M r e a o c n t a o a l c g l o e A l m | c T e ti h n o e t n ory Li mit e d A ut o n o m y M a n a g e P r m e d i e c t n io t n s o f P a th o p h ysio L l im o it g e d y R Ad e j a us s B t s T a e h s s R e e s e d ra c o p a n y ll R P M r e a o c n t a o a l c g l o e A l m | c T e ti h n o e t n ory Li mit e d A ut o n o m y I n e - d r e e p n t h ti al Di a g n o si s
+Limited Differential Limited Differential Diff
+Diagnosis Path E o x p t h e y n s s i i o v l e o gy Diagnosis A C lte o r n n d a i t t i i v o e n s
+• Minimal Knowledge • Elemental Knowledge • Deep Level of Knowledge
+• Minimal Range of Skills or Tasks • Increased Range of Skills or Tasks • Wide-Ranging, Broad and Extensive Skills or Tasks
+• Lifelong Learning
+12
+
+Back to Table of Contents >
+Because of the limited scope of practice for the EMR (fewer To describe the intended depth of knowledge of a particular
+tools in the airway box), the instructor may supplement BVM concept within a provider level, the revision team uses the
+education with a few additional concepts (breadth) surrounding terms simple, fundamental and complex. These terms can
+management of a patient’s airway, such as airway anatomy seem ambiguous and confusing when used in isolation (e.g.,
+and assessment. Supplementing the education with additional learning to correctly use a BVM is not a “simple” task). Instead,
+concepts adds to the breadth of the material, with each concept the meaning of each term is relative to the other terms. For
+having its own level of detail (depth) limited only by the amount example, knowledge that is categorized as “simple” is only
+of the time the instructor has to teach the material. As more simple relative to another curriculum that provides more detail,
+airway management tools are added to the toolbox for each such as when comparing EMT to AEMT. EMT students may
+licensure level (EMT, AEMT, paramedic), the level of detail need a greater level of airway anatomy detail because the
+will also change, and curriculum length will need to reflect this scope of practice is different. Scope of practice is even more
+increased depth. different for the AEMT and paramedic student, who will need
+increasingly greater levels of airway anatomy detail (complex).
+Course directors, instructors, medical directors and local
+stakeholders can decide the precise level of detail based on
+community and student needs rather than establishing a single
+prescriptive curriculum for the entire nation.
+Similarly, the intended breadth of knowledge surrounding a
+Complex
+Lifelong Professional-Level concept is reflected in the terms simple, foundational and
+Learning Knowledge comprehensive. As curricula include an increasing level of
+Expansive & Detailed detail about the use of the BVM, airway assessment and airway
+Lifelong Learning
+anatomy, the increasing size of the toolbox reflected by the
+Fundamental
+increased scope of practice necessitates a broader list of related
+Integrates
+subjects. For example, the addition of CPAP, nasopharyngeal
+airway and oxygen delivery devices at the EMT level broadens
+the curriculum for the EMT instructor. For instructors teaching
+Applies
+Simple paramedic students, the increased scope of practice broadens
+Lifelong
+the knowledge base even more. Clearly, the use of CPAP
+Learning
+requires the EMT to have an increased depth and more complex
+Uses
+breadth of knowledge than the EMR, but not nearly as much as
+the paramedic.
+Breadth (How much material?)
+Technician-Level
+Knowledge
+Simple Foundational Comprehensive
+Rudimentary
+13
+)?liated
+hcum
+woH(
+htpeD
+Figure 2.1: Depth/Breadth Terminology
+
+Back to Table of Contents >
+EMS Personnel Licensure Levels
+These licensure levels are from the National EMS Scope of Practice Model. Each educational level assumes mastery of previously
+stated competencies. Every clinician must demonstrate each competency within their scope of practice and for patients of all ages.
+Emergency Medical Emergency Medical Advanced Emergency Paramedic
+Responder Technician Medical Technician
+The emergency medical responder An emergency medical technician (EMT) The advanced emergency medical The paramedic is a health professional
+(EMR) is an out-of-hospital practitioner is a health professional whose primary technician (AEMT) is a health professional whose primary focus is to respond to,
+whose primary focus is to initiate focus is to respond to, assess and triage whose primary focus is to respond to, assess and triage emergent, urgent and
+immediate lifesaving care to patients emergent, urgent and non-urgent requests assess and triage non-urgent, urgent and non-urgent requests for medical care;
+while ensuring patient access to the for medical care, and to apply basic emergent requests for medical care; apply apply basic and advanced knowledge
+emergency medical services system. knowledge and skills necessary to provide basic and focused advanced knowledge and skills necessary to determine
+EMRs possess the basic knowledge and patient care and medical transportation to/ and skills necessary to provide patient patient physiologic, psychological,
+skills necessary to provide lifesaving from an emergency or health care facility. care and/or medical transportation; and and psychosocial needs; administer
+interventions while awaiting additional Depending on a patient’s needs and/or facilitate access to a higher level of care medications, interpret and use diagnostic
+EMS response and rely on an EMS or system resources, EMTs are sometimes when the needs of the patient exceed the findings to implement treatment; provide
+public safety agency or larger scene the highest level of care a patient will capability level of the AEMT. The additional complex patient care; and facilitate
+response that includes other higher-level receive during an ambulance transport. preparation beyond EMT prepares referrals and/or access to a higher
+medical personnel. When practicing in EMTs often are paired with higher levels an AEMT to improve patient care in level of care when the needs of the
+less populated areas, EMRs may have of personnel as part of an ambulance common emergency conditions for which patient exceed the capability level of the
+a low call volume coupled with being the crew or other responding group. With reasonably safe, targeted and evidence- paramedic. Paramedics often serve as a
+only care personnel for prolonged periods proper supervision, EMTs may serve as based interventions exist. Interventions patient care team member in a hospital
+awaiting arrival of higher levels of care. a patient care team member in a hospital within the AEMT scope of practice may or other health care setting to the full
+EMRs may assist, but should not be the or health care setting to the full extent of carry more risk if not performed properly extent of their education, certification,
+highest-level person caring for a patient their education, certification, licensure than interventions authorized for the EMR/ licensure and credentialing. Paramedics
+during ambulance transport. EMRs are and credentialing. In a community setting, EMT levels. With proper supervision, may work in community settings where
+often the first to arrive on scene. They an EMT might visit patients at home and AEMTs may serve as a patient care they take on additional responsibilities
+must quickly assess patient needs, make observations that are reported to team member in a hospital or health care monitoring and evaluating the needs of
+initiate treatment and request additional a higher-level authority to help manage setting to the full extent of their education, at-risk patients, as well as intervening
+resources. a patient’s care. When practicing in less certification, licensure and credentialing. In to mitigate conditions that could lead to
+populated areas, EMTs may have low call a community setting, an AEMT might visit poor outcomes. Paramedics help educate
+volume coupled with being the only care patients at home and make observations patients and the public in the prevention
+personnel during prolonged transports. that are reported to a higher-level authority and/or management of medical, health,
+EMTs may provide minimal supervision of to help manage a patient’s care. psychological and safety issues.
+lower-level personnel. EMTs can be the
+first to arrive on scene; they are expected
+to quickly assess patient conditions,
+provide stabilizing measures and request
+additional resources as needed.
+14
+
+Back to Table of Contents >
+About the Revised EMS Education Standards
+2019 National EMS Scope of Practice Model Relationship System (NEMSIS). In addition, the project revision team has
+reached out to NREMT throughout the revision project to obtain
+The recently released 2019 National EMS Scope of Practice input and feedback. NREMT’s practice analysis has been one of
+Model, funded by NHTSA and HRSA, assembled experts to many critical resources consulted by the revision team.
+evaluate the scope of EMS practice for each of the four national
+practitioner levels (EMR, EMT, AEMT and paramedic). The Domains of EMS: Learning, Competency, Authorization and
+2019 Scope of Practice Model is the launching pad and guide
+Operational/Local Qualification
+for this revision of the National EMS Education Standards. The
+Education Standards reflect the 2019 and 2021 updated Scope
+The 2019 National EMS Scope of Practice Model identifies four
+of Practice Model and ensure practitioners receive the education
+domains within the “Professional Scope of Practice” and provides
+and training they need to perform within their scopes and best
+a structure for the differences between education, certification,
+serve their patients and communities.
+licensure and credentialing (see definitions below). The EMS
+Education Standards Revision Team focused on education, or
+The revision of the National EMS Scope of Practice Model and
+the learning domain.
+National EMS Education Standards are naturally interrelated,
+as one informs the other. As such, the team brought together
+• Education, the learning domain – This domain includes
+to lead the revision of the National EMS Education Standards
+all didactic, psychomotor, and affective learning that an
+was funded by NHTSA and HRSA, and included 10 proven and
+EMS learner should be taught during an EMS course to
+renowned EMS educators. The National EMS Scope of Practice
+become an entry-level apprentice.
+Model, recommendations from EMS Agenda 2050, known best
+practices, emerging technology, evidence-based medicine,
+• Certification, the competency verification domain –
+information from the National EMS Database and societal issues
+This domain includes all external evaluation and verification
+were all considered. EMS stakeholder input and public comment
+processes that are led by an outside entity to ensure that a
+were solicited and received multiple times throughout the revision
+learner has achieved competency to be safe and effective
+process. The National Registry of EMTs also provided its Practice
+when conducting duties as an entry-level EMS clinician. In
+Analysis findings.
+most states, National Registry certification is used to verify
+competency.
+NREMT Practice Analysis
+• Licensure, the legal authorization domain – Licensure
+Several members of the EMS Education Standards Revision
+refers to the legal authority, granted by a state, to an
+Team were involved in the NREMT’s practice analysis working
+individual to perform certain defined and restricted duties.
+group. This process has informed the team regarding the most
+The clinical duties usually vary from one state to the
+encountered EMS emergencies, according to the National EMS
+next. The term is not to be confused or referred to as
+Database, made possible by the National EMS Information
+“certification.” As defined in the 2019 Scope of Practice
+15
+
+Back to Table of Contents >
+Model, certification and licensure are independent yet When a learner successfully concludes coursework and has
+related processes. When state requirements are met, a satisfied a program’s identified terminal requirements (Education
+state license is issued along with the legal authority to Domain), the apprentice can then sit for an evaluation that
+perform a role at the appropriate level of licensure. provides verification of competency (Certification Domain). After
+successfully navigating the Licensure Domain with a state, a
+• Credentialing, the operational/local qualification learner is deemed “entry-level.” Finally, the entry-level clinician
+domain – Credentialing is the responsibility of the is ready for the Credentialing Domain of an employer, after
+individual EMS organization and, in most cases, the which the learner is “job-ready.” The term “entry-level” indicates
+medical director. Being that a learner has been educated, that a learner has completed the education, certification, and
+certified and licensed, the duty falls to the organization licensure domains. “Job-ready” indicates that a learner has been
+and local community to ensure that the EMS clinician is credentialed by an employer and the local medical director, and
+able to operate safely by following appropriate clinical and is competent in the system’s operational and clinical guidelines,
+operational guidelines and philosophies set forth by the policies and philosophies.
+physician EMS medical director. Typically, this involves
+orientation courses with an evaluation and structured Common comments and recommendations that were received
+operational and clinical training programs. Credentialed by the revision team addressed content areas that clearly did
+providers have been taught and assessed on skills and not apply to the entry-level education of an apprentice EMS
+actions that are beyond the entry-level education and clinician. Many suggestions fit within the credentialing domain
+training of an EMS school. For instance, if allowed by the and are not appropriate for national adoption at this time. The
+state, ultrasound may be a role performed after proper team worked hard to stay within the education domain for entry-
+credentialing by the local EMS medical director and level EMS clinicians.
+jurisdiction, even though ultrasound is not included in the
+National EMS Scope of Practice Model or the National Education Standards vs. Instructional Guidelines
+EMS Education Standards.
+vs. Curriculum
+Because most EMS education programs teach students who will
+The National EMS Education Standards outline the minimal
+not all practice in the same organization, communities or even
+competencies for entry-level EMS clinicians to achieve within
+states, a one-size-fits-all education is not possible. The writing of
+the parameters outlined in the 2019 and 2021 updated Scope
+a detailed national curricula for each of the four levels would be
+of Practice Model. Education programs should contemplate the
+problematic. No educational institution can teach a learner every
+Standards when developing curricula for national consistency.
+possible clinical or operational guideline or associated philosophy,
+The Standards’ format will allow diverse implementation methods
+nor can an educational entity train an individual about every clinical
+to meet local needs and evolving education practices. The less
+device used by EMS services across the nation. As a result, the
+prescriptive format of the Standards will also allow for ongoing
+credentialing process is a critical piece of preparing EMS clinicians
+revision of content consistent with scientific evidence, advances in
+to practice in their respective organizations after the completion of
+technology, known “best practices” and community standards of
+initial education and certification.
+care.
+16
+
+Back to Table of Contents >
+In general, the content of education standards can range from This integrated system is essential to achieving the goals of
+largely non-prescriptive to detailed and very prescriptive. program efficiency, consistency of instructional quality and
+student competence as outlined in the Education Agenda.
+Non-Prescriptive Education Standards:
+While the Education Standards are developed at the national
+• increase teacher autonomy
+level, each state retains the right to wholly adopt the Standards
+• increase instructional flexibility
+or adopt and modify the Education Standards to fit a state’s
+• increase responsiveness to student learning needs unique needs. The National EMS Education Standards have
+• increase responsiveness to local needs and situations been created to provide states with a vetted, consensus-driven
+foundation for EMS education. They also benefit clinicians by
+• increase responsiveness to national trends
+paving the way for national certification and easier transition
+from one locality or state to another.
+Prescriptive Education Standards:
+• improve education consistency
+Individual EMS educators and local communities select or
+• protect from societal harm that may result from low create curricula based on a multitude of curriculum influencers.
+education expectations and/or low-quality instruction These influencers can also be strong mechanisms for education
+program accountability. Regional needs, accreditation standards
+• have been labeled as “burdensome checklists” by some
+and state and local policies and regulations are a few examples.
+educators and are problematic in medicine due to rapid
+Curricula design, implementation and adjustment are complex
+changes in technology, scientific evidence and best
+processes. Specific curricular content, instructional strategies
+practices
+and competency evaluation processes should be resolved at the
+education program level through implementation and feedback.
+The National EMS Education Standards are not meant to stand
+Regulatory rules must be adhered to as well. Decisions on
+as a comprehensive document guiding all of the development of
+curriculum implementation are based on local situations,
+EMS clinicians, but rather one part of a comprehensive system
+students’ needs and available resources. Figure 3 illustrates
+(Figure 3). EMS education programs will incorporate each
+numerous inputs and points for accountability when curricula
+element of the education system proposed in the Education
+are designed, implemented and adjusted. Program directors,
+Agenda. These elements include:
+faculty and education institutions would be wise to consider
+each influence.
+• National EMS Core Content
+• National EMS Scope of Practice
+• National EMS Education Standards
+• National EMS Certification
+• National EMS Program Accreditation
+17
+
+Back to Table of Contents >
+Figure 3: Influences on EMS Education Curriculum Development
+Federal State & Regional
+• EMS Education Agenda for the Future: • State laws and regulations
+•
+A
+N a
+S
+ti
+y
+o
+s
+n
+te
+a
+m
+l E
+s
+M
+A
+S
+p p
+C
+ro
+o
+a
+re
+c h
+Content I
+mplementatio
+n
+•
+•
+R
+St
+e
+a
+g
+k
+i
+e
+o
+h
+n
+o
+a
+l
+l
+d
+r
+e
+e
+r
+q
+i
+u
+n
+i
+t
+r
+e
+e
+r
+m
+es
+e
+t
+n
+s
+ts
+• National EMS Scope of Practice Model
+Program
+• National EMS Education Standards
+• EMS Agenda 2050 and
+• Stakeholder interests Course
+Curriculum
+Accrediting & Certifying Advances in EMS
+Organizations
+Feedback • Evidence-based medicine
+• Technology
+• CAAHEP/CoAEMSP1
+• Known and evolving best practices
+• National Registry of EMTs
+- Practice analysis
+• Stakeholder interests Local
+• Resources • Local advisory committees
+• Student needs • Stakeholder interests
+• Community needs • Employers
+• Medical direction
+1 CAAHEP: Commission on Accreditation of Allied Health Education Programs, CoAEMSP: Committee
+on Accreditation of Educational Programs for the Emergency Medical Services Professions
+Where are the Instructional Guidelines? It was also evident that, while much of the IGs remained
+relevant, several sections had become outdated because
+The 2009 instructional guidelines (IGs) were originally designed of changes in evidence-based medicine, best practices or
+to help educators transition from the National Standard Curricula technology. Simultaneously, it was felt that it would be useful to
+developed in the 1990s to the 2009 Education Standards. have a level of specificity within the Education Standards rather
+than require educators to look in multiple places when seeking
+When the revision team met, a discussion ensued regarding guidance to create curricula.
+the ongoing usefulness of the IGs in their current form. It was
+agreed that the addition of the existing four IGs (EMR, EMT, The resulting document combined elements of the IGs with
+AEMT and paramedic) to the Education Standards made the the overarching principles of the Education Standards. A level
+documents too cumbersome to be easily useful. of knowledge depth and breadth is provided for each section
+18
+
+Back to Table of Contents >
+of the Standards. At a glance, trained educators will be able national stakeholder called for courses in health systems
+to determine the extent of information to be provided to their science and value-based care. Suggested courses included:
+students. The result is an enriched blueprint of the education
+• Health care system structure and processes
+and training of today’s EMS clinicians.
+• Health care policy, economics, and management
+Beyond the Scope of the Project • Clinical informatics and health information technology
+• Public/population health
+There are four areas that were frequently brought up by
+• Health system improvement and person-centered care
+stakeholders but not part of the project. Specialty certification
+education (critical care paramedic, community paramedic, • Structure and processes beyond EMS
+tactical medic); degree requirements at any clinician level;
+• Health care reimbursement and finance
+nomenclature of the EMS profession and clinicians; and
+• Health care quality and safety
+continuing education requirements were beyond the scope
+of this effort. Instead, the focus was to align the Education
+AEMT Accreditation
+Standards with the newly released 2019 Scope of Practice
+Model.
+The 2019 National EMS Scope of Practice Model subject
+matter expert panel recommended requiring AEMT program
+Degree Requirements
+accreditation by January 1, 2025. The panel deliberated and
+The revision team heard numerous comments regarding came to a consensus on the matter with the involvement of 13
+degree requirements. Clearly, some parties strongly desire stakeholders and various independent contributors. Despite this
+degree requirements for paramedics. Others strongly understanding in 2019, the topic continues to be passionately
+oppose them. Currently, there is not an industry consensus debated. The Education Standards revision team supports this
+for degree requirements for EMS personnel. In many cases, recommendation. The revision team deliberated the topic and
+several significant EMS stakeholders and the “larger” EMS concluded that accreditation is an original and identified goal of
+community take a more neutral position. Time will allow the 2000 EMS Education Agenda. Through the use of collegial
+for further discussion and debate on the topic. Early in the evaluation practices and the identification of recognized routines
+process, the team was advised that the debate for or against for establishing sound EMS education programs, program
+degrees was beyond the scope of the project as the 2021 accreditation is expected to promote clinical and educational
+National EMS Education Standards do not address degree excellence by ensuring the availability of adequate resources
+requirements. and services for educators and their students.
+The team also received recommendations for education Portable Technologies
+related to deeper clinical subject matter, leadership and
+management, public health, education, social work, During the public comment periods, many participants identified
+research, and other areas related to EMS systems. One the need for education standards that covered new and
+19
+
+Back to Table of Contents >
+emerging technologies. There were specific and repeated Simulation
+recommendations for Point-of-Care Ultrasound (POCUS);
+EMS simulation begins in the classroom with educators
+the 2019 Scope of Practice Model subject matter experts
+creating realistic scenarios to train all levels of EMS
+directly addressed this skill and have determined that “portable
+personnel. The practice of allowing students to memorize
+technology” (which includes POCUS) has been left to the
+and verbalize a check sheet is no longer acceptable and
+“credentialing” process of the EMS organization and medical
+should be changed. Simulation has proven to increase
+director. The Standards revision team believes that the ideal
+critical thinking skills and reduce medical errors in our health
+time for use of these technologies is when a person has been
+care system. Simple to complex simulation comes in many
+educated, deemed competent, licensed and credentialed with
+forms, from table-top exercises and practicing intramuscular
+knowledge and skill. The local EMS medical director should be
+injections on an orange to standardized live patients and
+involved in the selection of technologies. Widespread education
+high-fidelity manikins. Cost will vary, but simulation does not
+based on specific technologies should be decided at the local
+have to be expensive to be successful. Simulation in EMS
+or state level. Only after national adoption and inclusion in
+can achieve:
+a practice analysis should technologies be included in the
+National EMS Education Standards and National EMS Scope of
+• The creation of a “safe-to-fail” environment in which
+Practice Model.
+students can make mistakes without dire consequences
+and learn from those mistakes
+Instructional Practices: Simulation, Shadowing &
+• Higher success rates on the NREMT psychomotor
+Interprofessional Education
+exams
+Because education standards are not intended to be a • Enhanced understanding and more robust
+curriculum, the instructional strategies of simulation, shadowing therapeutic communication
+and interprofessional education are addressed here but not
+• Increased understanding and demonstration of
+in the Standards themselves. The team does believe that an
+affective domain competencies
+education program should implement numerous instructional
+• Improvement in critical thinking skills of entry-level
+techniques to accommodate the diversity of student learning
+personnel
+needs inside and outside the EMS classroom. Using numerous
+instructional strategies will help reach every learner. A heavy • Improved safety, effectiveness and efficiency of
+reliance on the traditional lecture is not ideal and is not services
+equitable, as some students learn better in different settings
+• Substitution for infrequent or unattainable clinical
+and every student benefits from experiencing other methods of
+scenarios
+instruction. Three types of instructional practices were identified
+by the public and various stakeholders: simulation, shadowing
+Shadowing
+and interprofessional education. The team believes that each
+Shadowing a practicing clinician offers students experiential,
+practice has merit and should be considered as an additional
+hands-on learning opportunities, and many learners have a
+instructional strategy.
+special affinity for it. Shadowing affords a prospective EMS
+20
+
+Back to Table of Contents >
+professional the chance to be immersed in the actual job recommended that the EMS educator work with the subject
+environment, making it possible to see an experienced matter experts to ensure relevance of the content to the
+worker apply the skills and traits needed to accomplish practice of prehospital medicine.
+the work.
+Eminence of the Affective Domain
+Interprofessional Education
+Competence in the affective domain of learning is critical to the
+Health care is best when delivered in a cooperative
+success of EMRs, EMTs, AEMTs and Paramedics. The National
+team environment; collaboration can result in improved
+EMS Education Standards focus on the knowledge and skills
+communications, thus reducing medical errors, reducing
+that an entry-level practitioner needs to treat sick or injured
+costs for patients and improving patient outcomes.
+patients. The third dimension needed for any skilled EMS
+Interprofessional Education is a proven instructional method
+clinician is related to values, attitude, professional behavior,
+that results in positive outcomes in clinical preparation,
+compassion and a willingness to serve. Values provide the
+health care profession education and public safety.
+foundation for decisions, and attitudes reflect values and
+Interprofessional Education helps a learner realize how
+influence interpersonal dynamics. Professional behavior is a key
+EMS fits into the larger “continuum of care” and plays a
+component of medical practice, and compassion is a required
+role in critical “systems of care.” Learning how patients
+characteristic of medical professionals supporting clinical
+move through the health care system, from dispatch to
+knowledge and skill. A willingness to serve underlies all that a
+discharge to follow-up care, plays a critical role in patient
+health care provider does.
+safety. Interaction with other health care providers and first
+responders during initial education will mutually enhance an
+The importance of affective domain competence cannot be
+understanding of everyone’s roles in the system.
+overstated. Every EMS education program director and faculty
+member should consider this aspect of medical practice.
+Out-of-hospital care is becoming more diverse and complex.
+Modeling and setting professional-level expectations for
+As a result, individual EMS instructors may not possess
+affective domains are part of the educational duty of an educator
+the expertise or knowledge to teach all subjects within the
+within career and technical school. From the very first day of
+revised Standards. When this occurs, a subject matter
+class until course conclusion, the importance of teaching and
+expert should be enlisted for the given topic. For instance,
+evaluating affective domain competency to ensure graduates
+the public health section has been expanded and it would
+are fully prepared for professional practice should be identified
+be a “best practice” to bring in a qualified content expert to
+as a high priority and a universal goal.
+cover the topic. Many areas related to EMS operations would
+also require a qualified content expert. Rescue operations
+Sequence of Instruction
+have become extremely broad and specialized. Bodies of
+knowledge such as incident command, hazardous materials
+The order of the National EMS Education Standards does not
+and other unique topics require experience and specialized
+imply any particular sequence of instruction. For example,
+knowledge for quality instruction. The instructor should have
+some topics, such as public health, could be taught early on or
+a proper background, relevant knowledge and a degree
+later in a course, despite appearing early in these Standards.
+or a recognized and credible credential in the topic. It is
+Other topics, such as basic assessment skills, would likely
+21
+
+Back to Table of Contents >
+come early in the clinician’s education and precede concepts Two critical sources that educators should consider referencing
+that build upon them. Curricular flow should be determined by as they create learning content are the National Model EMS
+the education program director, with input from faculty, medical Clinical Guidelines, maintained by the National Association of
+direction and advisory committees. State EMS Officials (NASEMSO), and pre-hospital evidence-
+based guidelines, many of which are produced through the
+Locally Identified Topics efforts of The Prehospital Guidelines Consortium, maintained
+by the National Association of EMS Physicians (NAEMSP). The
+The revision team recognized and heard numerous comments guidance provided by these sources is a result of collaboration
+regarding clinical content that is of great local need and yet may among many national EMS stakeholders intent on promoting
+not be essential as an item for the entire nation. As a result, consensus and evidence to inform a general standard of
+the team believed it would be best to include a statement that prehospital care.
+some content should be locally determined and developed at
+the simple depth, simple breadth level (or higher when desired).
+This content should be identified, developed and implemented
+using a program medical director, advisory boards, the larger
+medical community or faculty judgement.
+Implicit Expectations
+For a given illness, condition, or traumatic injury, the implicit
+expectation is that an educational program will include instruction
+of the relevant anatomy, physiology, pathophysiology, assessments
+and accepted treatments. The team determined that this
+expectation is known by educators and repeating the statement in
+each section of the document is not required or desired.
+Additional Resources
+It is impossible for EMS instructors to know everything about
+the profession, and trying to stay up to date on the latest
+evidence-based guidelines, best practices, industry standards
+and research is a very difficult task. The resources found in
+Appendix A are intended as tools for educators to use as
+needed to remain current on changes in the field.
+22
+
+Back to Table of Contents >
+Summary of Significant Changes to the EMS Education Standards
+Behavioral/Psychiatric • EMS workforce: Are we creating a diversified and
+equitable workforce reflective of our population?
+Many, if not most EMS systems have seen a steady rise in Promoting cultural humility can help strengthen
+behavioral emergencies and patients experiencing acute and relationships among staff, leadership, patients and
+chronic manifestations of psychiatric illnesses. Moreover, a families and other health care personnel we interact with
+lack of available in-patient beds at mental health facilities has on a daily basis.
+resulted in EMS clinicians needing to manage these patients for
+• Patient care: Are we teaching cultural competency and
+longer periods of time and over longer distances.
+humility to our EMS students? After graduation, can our
+students provide culturally competent, equitable and
+As a result, the behavioral/psychiatric section of the Education
+medically appropriate prehospital care to each and every
+Standards was revised to include more information regarding
+patient no matter their background? Cultural humility leads
+acute behavioral crisis and mental health disorders. Greater
+to higher-quality care and better communication and trust
+depth and breadth of knowledge were recommended for
+between patients and clinicians.
+areas involving potential safety hazards to patients and EMS
+clinicians. Conversely, certain psychiatric disease and syndrome
+EMS Operations
+areas were revised and simplified.
+EMS operations, while extremely important, are determined by a
+Cultural Humility
+variety of factors, including the setting, the clinician’s role and the
+EMS system design. Therefore, it is not possible to provide strict
+Throughout health care and related fields, there has been a
+and straightforward training requirements that would be appropriate
+recognition of the importance of maintaining an awareness of the
+across these diverse settings. Next is a summary of the intent of
+assumptions and biases related to cultural issues and how they
+each section of the EMS operations education standards. EMS
+may affect our patients, co-workers and students. Cultural humility
+educators and EMS institutions need to be able to work with local
+is a lifelong, ongoing process of self-reflection and self-critique in
+and state agencies to determine the appropriate level of knowledge
+which one learns about others’ cultural identities and looks at how
+that providers need to perform their duties safely and efficiently.
+one’s own background and social environment have shaped the
+individual. Cultural humility in EMS should address:
+• Education: Are our EMS educators diverse? Does
+our student population reflect the community? Are our
+classrooms free of stereotypes? Do we understand our own
+biases and the differences between all of our students?
+23
+
+Back to Table of Contents >
+• Principles of Safely Operating EMS Emergency achieved by clinicians at each level should be determined
+Response Vehicles by state and local requirements.
+The intent of this section is to give an overview of
+emergency response to ensure the safety of EMS • Landing Zone Operations
+personnel, patients and others during EMS response The intent of this section is to give an overview of
+vehicle operations. This does not prepare the entry-level operating safely in and around a landing zone during
+student to be an experienced and competent driver. air medical operations and transport. The safety
+considerations of setting up and operating in a landing
+Appropriate driver training designed for the entry-level
+zone should be taught by properly trained experts who
+provider must be completed as required by state and local
+have the proper knowledge and experience in the area
+regulations and is not intended to be part of a requirement
+of air medical transportation. The depth and breadth of
+to achieve national certification as an emergency medical
+information that is needed by each level of clinician should
+responder. Information related to the clinical management
+be determined by state and local regulations. Information
+of the patient during emergency response is found in the related to the clinical management of the patient being
+clinical sections of the National EMS Education Standards cared for during air medical operations is found in the
+for each personnel level. clinical sections of the National EMS Education Standards
+for each licensure level.
+• Incident Management
+• Rescue Operations
+Information related to the clinical management of the
+The intent of this section is to provide an overview of
+patient within components of the Incident Management
+rescue operations including, but not limited to, vehicle
+System is found in the clinical sections of the National
+extrication, low/high angle, water, trench and confined
+EMS Education Standards for each licensure level. The
+space to ensure the safety of EMS personnel and patients
+material presented in this section should be delivered by during these events. This does not prepare the entry-level
+an individual who has been trained and has the proper student to become competent or qualified to work in these
+credentials to educate students in these areas. The rescue environments. Information related to the clinical
+material may be obtained in-person or through distance management of the patient being cared for during rescue
+incidents is found in the clinical sections of the National
+learning as determined by state and local requirements.
+EMS Education Standards for each personnel level.
+• Mass Casualty Incidents
+• Hazardous Materials
+The intent of this section is to give an overview of
+Information related to the clinical management of the
+operating during a mass casualty incident when a multiple
+patient exposed to hazardous materials is found in the
+casualty incident plan is activated. Information related to
+clinical sections of the National EMS Education Standards
+the clinical management of the patients during a multiple
+for each personnel level. This information may be done as
+casualty incident is found in the clinical sections of the
+a corequisite or prerequisite, or as part of the entry-level
+National EMS Education Standards for each licensure
+course as determined by state and local requirements.
+level. The depth and breadth of training that must be
+24
+
+Back to Table of Contents >
+Training in this area should only be done by those properly The EMS clinician of the future will be expected to integrate into
+trained and credentialed to provide the required training. pandemic plans, assist in vaccinations and act as the initial point
+Federal regulations require that, at a minimum, EMS of entry into robust community health programs.
+personnel must be trained at the Hazardous Materials
+Awareness level. State and local regulations may have The new standards are intended to prepare the entry-level
+additional requirements that are above and beyond federal provider to work alongside and collaboratively with specially
+regulations. EMS educators should work in collaboration with trained community paramedics, social workers, public health
+local fire or emergency management authorities to determine organizations, health care entities, emergency management
+the proper training level required and assuring that properly agencies and non-governmental organizations in their day-
+credentialed instructors are providing the training. The to-day duties, and lay the foundation for advancement into
+information contained in the hazardous materials awareness specialized roles.
+programs are above and beyond the scope of national EMS
+programs for the entry-level provider. Pharmacology
+An EMS culture of safety is a universal goal within the industry.
+• Mass Casualty Incidents Due to Active Threats
+A key area for safety is the administration of medications in
+and Disaster
+the prehospital setting. The lack of desired pharmacology
+The intent of this section is to give an overview of competency among EMS program graduates was identified
+operating during a terrorist event or during a natural or by the EMS Scope of Practice subject matter experts, in EMS
+man-made disaster. Instruction in this area should be evidenced-based literature and numerous other sources. When
+done by properly trained and knowledgeable individuals in it comes to pediatric populations, EMS for Children identified
+this area. State and local regulations may have additional a significant need for additional training in this area and called
+requirements that are above and beyond federal for specific teaching for pediatric dosing and troubleshooting
+regulations. Information related to the clinical management abnormal situations. As a result, the pharmacology section has
+of patients exposed to a terrorist event or involved in a been expanded for EMR, EMT, AEMT and paramedics. It is not
+disaster is found in the clinical sections of the National EMS enough to solely teach pharmacology in a traditional didactic
+Education Standards for each personnel level. manner. This skill should include didactic, psychomotor and
+affective instruction. There should be significant opportunities
+Public Health
+to practice the skill before leaving the education program.
+Simulation and, ideally, actual patient encounters should
+Since the release of the original National EMS Education
+be offered to students. Emphasis and specific focus should be
+Standards in 2009, EMS has made substantial progress from
+given to psychomotor practice of adult, pediatric and geriatric
+being viewed as simply a provider of medical transport to a true
+medication administration due to the complexity of drug dosing
+out-of-hospital health care resource. The changes to the public
+and the chance of error.
+health section of the Standards reflect this evolution in EMS.
+Public health prevention and pandemic preparedness efforts are
+essential functions in the future as EMS continues to be at the
+crossroads between health care, public health and public safety.
+25
+
+Back to Table of Contents >
+EMS Safety, Wellness and Resilience The need for better EMS assessment, diagnosis, treatment,
+safe medication administration, airway management and
+Workforce safety and wellness has been expanded to reflect appropriate pain management has been identified. In every
+principles of stress management, responder mental health, aspect of education, troubleshooting and critical thinking are
+resilience and suicide prevention across all levels. With greater required when clinical situations are confusing or problematic.
+number of responders reporting thoughts of suicide, and suicide As students acquire knowledge, skills and abilities, opportunities
+rates among first responders significantly exceeding those of to compare and contrast pediatric, adult and geriatric
+the general population, a foundational level of knowledge is populations will enhance and deepen learning.
+crucial to addressing this professional and occupational crisis.
+An overall greater emphasis on mental health resources is also During each section of the Standards, relevant pediatric and
+recommended. geriatric content should be discussed in detail as they aren’t
+covered in a separate section. Incorporation of this special
+Standard safety precautions, use of personal protective population information into the general content should improve
+equipment, illness and injury prevention, and lifting and moving the comfort level of students by making the care of these
+patients continue to be emphasized at all levels of emergency patients part of everyday operations.
+responders. Other areas that have been added include
+crew resource management across all levels and disease EMS education should include knowledge from the cradle to
+transmission in the EMT, AEMT and paramedic curricula. the grave. Pediatric and geriatric topics should no longer be
+minimized, in comparison to “adult” topics, or relegated to an
+Pediatric and Geriatric Content Competencies
+isolated component of an EMS course, which can create a
+perception that the content is somehow less important.
+Individual sections for pediatrics and geriatrics have been
+removed, with education content addressing these special
+EMS education and care should be family-centered. Family-
+populations now incorporated throughout the education
+centered care is a clinical methodology for the planning,
+standards. This change is based on recommendations from
+delivery and evaluation of health care which is established in
+pediatric-focused stakeholders, scientific evidence and
+an affirming partnership that collaboratively involves patients,
+consensus among clinical partners.
+families and the health care providers. Family-centered care
+represents a significant transition away from paternalistic
+Concepts related to geriatric and pediatric patients deserve
+medicine to that which is founded on pillars of respect,
+equitable attention and should be taught repeatedly throughout
+collaboration, information sharing and shared decision-making.
+every section of a course resulting in an earlier assimilation
+of the content. Pediatric stakeholders reported that anxiety,
+While family-centered care is often taught as an area of focus
+unfamiliarity with pediatric patients and equipment, and
+for children with special needs, it should be integrated into
+discomfort on the part of rescuers calls for aggressive remedies.
+the care of all patients. In the case of children with special
+These findings may be associated with the low frequency and
+health care needs, the family’s knowledge of a child’s condition
+high acuity of pediatric encounters.
+can be immensely valuable. Yet, even among children with
+26
+
+Back to Table of Contents >
+simple, acute medical emergencies, families and children
+often experience high levels of stress. Family-centered care
+seeks to help patients and families retain a sense of control.
+This includes providing opportunities for family members to
+be present during medical transport and invasive procedures.
+The approach recognizes that each family is unique, integral
+and essential for health care safety and quality. The values of
+collaboration, responsiveness and united decision-making are at
+the forefront of treatment. The beliefs, desires, and values from
+cultural backgrounds of the family and patient are considered
+and respected. Health care workers communicate with complete
+information and in an unbiased and respectful manner. When
+choices are made, decision-making involves all parties as
+coequal parts and decision-makers are known and informed,
+and health care clinicians listen to and honor patient and family
+choices. When family-centered care is optimal, there is high-
+quality care with safety, and family and patient satisfaction are
+achieved.
+The reader will find phrases such as “include age-related
+variations in pediatric and geriatric patients” and “include
+psychosocial aspects of age-related assessment and
+treatment modifications for the major or common diseases
+and/or emergencies associated with pediatric and geriatric
+patients.” These phrases are intended to remind and direct EMS
+educators to elevate the importance of geriatric and pediatric
+education within each section.
+27
+
+Back to Table of Contents >
+National EMS Education Standards
+EMR EMT AEMT Paramedic
+Preparatory Uses knowledge of the EMS Applies knowledge of the EMS Applies knowledge of the EMS Integrates knowledge of EMS
+system, safety/well-being of system, safety/well-being of system, safety/well-being of systems, the safety/well-being
+the EMR, medical/legal issues the EMT, medical/legal and the AEMT, medical/legal and of the paramedic, and medical/
+and ethical issues at the scene ethical issues to the provision ethical issues to the provision legal and ethical issues intended
+of an emergency while awaiting of emergency care. of emergency care. to improve the health of EMS
+a higher level of care. personnel, patients and the
+community.
+EMS Systems • EMS systems (S,S) • EMS systems (S,F) • EMS systems (S,F) • EMS systems (C,C)
+• Roles, responsibilities and • Roles, responsibilities and • Roles, responsibilities and • Roles, responsibilities, and
+professionalism of EMS professionalism of EMS professionalism of EMS professionalism of EMS
+personnel (S,S) personnel (F,F) personnel (F,F) personnel (C,C)
+• Quality improvement vs. quality • Quality improvement vs. quality • Quality improvement vs. quality • Quality improvement vs. quality
+assurance (S,S) assurance (S,F) assurance (F,F) assurance (C,C)
+• Role of medical oversight (S,S) • Role of medical oversight (S,S) • Role of medical oversight (F,F) • Role of medical oversight (C,C)
+• Culture of safety / patient safety • Culture of safety / patient safety • Culture of safety / patient • Culture or safety / patient
+(S,S) (S,F) safety (F,F) safety (C,C)
+• Continuum of care (S,S) • Continuum of care (S,F) • Continuum of care (F,F) • Continuum of care (F,F)
+• History of EMS (S,F) • History of EMS (S,F) • History of EMS (F,F)
+• Systems of care, e.g., Stroke, • Systems of care, e.g., Stroke, • Systems of care, e.g., Stroke,
+STEMI, Trauma, Pediatrics STEMI, Trauma, Pediatrics STEMI, Trauma, Pediatrics
+(S,F) (F,F) (C,C)
+• MIH/CP and other EMS-related • MIH/CP and other EMS-related • MIH/CP and other EMS-related
+specialty roles (S,S) specialty roles (F,F) specialty roles (F,F)
+28
+yrotaraperP
+LEGEND
+The first letter refers to Breadth, which can be:
+• Simple (S)
+• Foundational (F)
+• Comprehensive (C)
+The second letter refers to Depth, which can be:
+• Simple (S)
+• Fundamental (F)
+• Complex (C)
+For more information refer to Fig. 2 and Fig. 2.1 (Depth/Breadth
+Terminology) on p.11-12.
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Workforce • Standard safety precautions • Standard safety precautions • Standard safety precautions • Standard safety precautions
+(S,S) (F,F) (F,F) (C,C)
+Safety and
+• Personal protective equipment • Personal protective equipment • Personal protective equipment • Personal protective equipment
+Wellness (S,S) (F,F) (F,F) (C,C)
+• Lifting and moving patients • Lifting and moving patients (F,F) • Lifting and moving patients (F,F) • Lifting and moving patients (C,C)
+(S,S)
+• Crew resource management • Crew resource management • Crew resource management
+• Crew resource management (F,F) (F,F) (F,F)
+(S,S)
+• Stress management (F,F) • Stress management (F,F) • Stress management (C,C)
+• Stress management (F,F)
+• Prevention of work-related • Prevention of work-related • Prevention of work-related
+• Prevention of work-related injuries and illnesses (F,F) injuries and illnesses (F,F) injuries and illnesses (C,C)
+injuries and illnesses (F,F)
+• Responder mental health, • Responder mental health, • Responder mental health,
+• Responder mental health, resilience and suicide resilience and suicide resilience and suicide prevention
+resilience and suicide prevention (F,F) prevention (F,F) (C,C)
+prevention (F,F)
+• Wellness principles (F,F) • Wellness principles (F,F) • Wellness principles (C,C)
+• Wellness principles (F,F)
+• Disease transmission (F,F) • Disease transmission (F,F) • Disease transmission (C,C)
+• Disease transmission (S,S)
+Research • Impact of research on EMR • Impact of research on EMT care • Impact of research on AEMT • Impact of research on
+care (S,S) (S,S) care (S,S) Paramedic care (S,S)
+• Data collection (S,S) • Data collection (S,S) • Data collection (S,S) • Data collection (S,S)
+• Evidence-based decision • Evidence-based decision • Evidence-based decision making
+making (S,S) making (S,S) (S,S)
+• Research principles to interpret
+literature and advocate
+evidence-based practice (F,F)
+Documentation • Recording patient findings (S,S) • Recording patient findings (S,S) • Recording patient findings (S,S) • Recording patient findings (S,S)
+• Principles of medical • Principles of medical • Principles of medical documentation
+documentation and report writing documentation and report writing and report writing (C,C)
+(F,F) (C,F)
+• Supporting medical necessity (S,S)
+• Supporting medical necessity (S,S) • Supporting medical necessity (S,S)
+EMS System • Call for resources (S,S) • EMS communication system • EMS communication system • EMS communication system
+(S,S) (F,F) (C,C)
+Communication • Transfer care of the patient
+(S,S) • Communication with other • Communication with other • Communication with other health
+health care professionals to health care professionals to care professionals to include
+• Interact within the team
+include cohesive and organized include cohesive and organized cohesive and organized patient
+structure (S,S)
+patient handoff (S,S) patient handoff (F,F) handoff (C,C)
+• Team communication and • Team communication and • Team communication and
+dynamics (S,S) dynamics (F,F) dynamics (C,C)
+• Telemetric monitoring devices • Telemetric monitoring devices • Telemetric monitoring devices
+and transmission of clinical and transmission of clinical and transmission of clinical data,
+data, including video data (S,S) data, including video data (S,S) including video data (S,S)
+29
+yrotaraperP
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Therapeutic • Health care literacy (S,S) • Health care literacy (S,S) • Health care literacy (F,F) • Health care literacy (C,C)
+Communication • Interviewing techniques (S,S) • Interviewing techniques (F,F) • Interviewing techniques (F,F) • Interviewing techniques
+(C,C)
+• Verbal defusing strategies (S,S) • Verbal defusing strategies (F,F) • Verbal defusing strategies (F,F)
+• Verbal defusing strategies
+• Managing communication • Managing communication • Managing communication
+(F,F)
+challenges (S,S) challenges (F,F) challenges (F,F)
+• Managing communication
+• Family centered care (S,S) • Family centered care (F,F) • Family centered care (F,F)
+challenges (C,C)
+• Adjusting communication • Adjusting communication
+• Family centered care (F,F)
+strategies for age, stage of strategies for age, stage of
+development, patients with development, patients with • Adjusting communication
+special needs (S,S) special needs (S,S) strategies for age, stage of
+development, patients with
+• Non-discriminatory • Non-discriminatory
+special needs (C,C)
+communication that addresses communication that addresses
+inherent or unconscious bias, is inherent or unconscious bias, is • Non-discriminatory
+culturally aware and sensitive, culturally aware and sensitive, communication that
+and intended to improve patient and intended to improve patient addresses inherent or
+outcome (S,S) outcome (S,S) unconscious bias, is culturally
+aware and sensitive, and
+intended to improve patient
+outcome (C,C)
+Medical/Legal • Consent/refusal of care (S,S) • Consent/involuntary consent/ • Consent/involuntary consent/ • Consent/involuntary
+refusal of care (F,F) refusal of care (F,F) consent/ refusal of care
+and Ethics • Confidentiality (S,S)
+(C,C)
+• Confidentiality (F,F) • Confidentiality (F,F)
+• Advanced directives (S,S)
+• Confidentiality (C,C)
+• Advanced directives (F,F) • Advanced directives (F,F)
+• Tort and criminal actions (S,S)
+• Advanced directives (C,C)
+• Tort and criminal actions (F,F) • Tort and criminal actions (F,F)
+• Evidence preservation (S,S)
+• Tort and criminal actions
+• Evidence preservation (F,F) • Evidence preservation (F,F)
+• Statutory responsibilities (S,S) (C,C)
+• Statutory responsibilities (F,F) • Statutory responsibilities (F,F)
+• Mandatory reporting (S,S) • Evidence preservation (F,F)
+• Mandatory reporting (F,F) • Mandatory reporting (F,F)
+• Ethical principles/moral • Statutory responsibilities
+obligations (S,S) • Ethical principles/moral • Ethical principles/moral (C,C)
+obligations (F,F) obligations (F,F)
+• End-of-life issues (S,S) • Mandatory reporting (C,C)
+• End-of-life issues (S,S) • End-of-life issues (S,S)
+• Ethical principles/moral
+• Patient rights/advocacy (S,S) • Patient rights/advocacy (S,S) obligations (C,C)
+• End-of-life issues (C,C)
+• Health care regulation (C,C)
+• Patient rights/advocacy
+(C,C)
+• Ethical tests and decision
+making (C,C)
+30
+yrotaraperP
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Anatomy and Uses knowledge of the anatomy Applies knowledge of the Integrates knowledge of the Integrates knowledge of the
+and function of the upper airway, anatomy and function of all anatomy and physiology of anatomy and physiology of all
+Physiology
+heart, vessels, blood, lungs, human systems to the practice of the airway, respiratory and human systems
+skin, muscles and bones as the EMS. circulatory systems to the
+foundation of emergency care. practice of EMS.
+EMR EMT AEMT Paramedic
+Medical Uses medical and anatomical Uses anatomical and medical Same as EMT Level Integrates anatomical and
+terms. terms and abbreviations in medical terminology and
+Terminology
+written and oral communication abbreviations into written
+with colleagues and other health and oral communication with
+care professionals. colleagues and other health care
+professionals.
+EMR EMT AEMT Paramedic
+Pathophysiology Uses knowledge of shock and Applies knowledge of the Applies knowledge of the Integrates knowledge of
+respiratory compromise to pathophysiology of respiration pathophysiology of respiration pathophysiology of major human
+respond to life threats. and perfusion to patient and perfusion to patient systems.
+assessment and management. assessment and management.
+EMR EMT AEMT Paramedic
+Life Span Uses knowledge of age-related Applies knowledge of life Same as EMT Level Integrates knowledge of life span
+differences to assess and care span development to patient development.
+Development
+for patients. assessment and management.
+31
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Public Has an awareness of local Applies knowledge of the Same as EMT level Applies knowledge of
+public health resources and principles of public health principles of public health and
+Health
+their role in public health. epidemiology including public epidemiology including public
+health emergencies, public health emergencies, health
+health monitoring, health promotion and illness and
+promotion and illness and injury prevention.
+injury prevention.
+Public • EMS roles in public health • EMS roles in public health • EMS roles in public health • EMS roles in public health
+(S,S) (S,S) (S,S) (C,F)
+Health
+• Infection prevention and • Infection prevention and • Infection prevention and • Infection prevention and
+Overview control (S,S) control (S,S) control (S,S) control (F,F)
+• Human trafficking (S,S) • Human trafficking (S,S) • Human trafficking (S,S) • Human trafficking (S,S)
+• EMS EHR reporting and data • EMS EHR reporting and data • EMS EHR reporting and data
+collection (S,S) collection (S,S) collection (S,S)
+• Governmental/ • Governmental/ • Governmental/
+nongovernmental roles & nongovernmental roles & nongovernmental roles &
+resources (S,S) resources (S,S) resources (S,S)
+• Public health mission and • Public health mission and • Public health mission and
+goals (S,S) goals (S,S) goals (S,S)
+• Social, geographic, economic, • Social, geographic, economic, • Social, geographic, economic,
+demographic determinants of demographic determinants of demographic determinants of
+health (S,S) health (S,S) health (S,S)
+• Patient and community • Patient and community • Patient and community
+education (S,S) education (S,S) education (S,S)
+• Injury prevention and wellness • Injury prevention and wellness • Injury prevention and wellness
+(S,S) (S,S) (S,S)
+• Unique pediatric, geriatric and • Unique pediatric, geriatric and • Unique pediatric, geriatric and
+special populations public special populations public special populations public
+health concerns (S,S) health concerns (S,S) health concerns (S,S)
+• Screenings and vaccinations/ • Screenings and vaccinations/ • Screenings and vaccinations/
+immunizations (S,S) immunizations (F,F) immunizations (C,F)
+• Impacts of political, social and • Impacts of political, social and
+economic issues (F,F) economic issues (F,F)
+• Infectious disease (F,F) • Infectious disease (C,F)
+• Patient disposition, selecting
+destination, ambulance
+transport (C,F)
+• Bioinformatics (C,F)
+32
+htlaeH
+cilbuP
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Pharmacology Uses knowledge of the Applies knowledge of the Applies (to patient assessment Integrates knowledge of
+medications that the EMR may medications the EMT may and management) knowledge pharmacology to formulate
+administer in an emergency. administer to a patient during of the medications carried a treatment plan intended to
+an emergency and chronic or by AEMTs that may be mitigate emergencies and
+maintenance medications the administered to a patient improve the overall health of
+patient may be taking. during an emergency and the patient.
+chronic or maintenance
+medications the patient may
+be taking.
+Principles of • Medication safety (S,S) • Medication safety (F,F) • Medication safety (C,C) • Medication safety (C,C)
+Pharmacology • Kinds of medications used • Medication legislation (F,F) • Medication legislation (C,C) • Medication legislation (C,C)
+during an emergency (S,S)
+• Naming (F,F) • Naming (C,C) • Naming (C,C)
+• Classifications (F,F) • Classifications (C,C) • Classifications (C,C)
+• Storage and security (F,F) • Storage and security (C,C) • Storage and security (C,C)
+• Medication interactions (S,S) • Medication interactions (C,C) • Medication interactions (C,C)
+• Adverse drug reactions (S,S) • Adverse drug reactions (C,C) • Adverse drug reactions (C,C)
+• Metabolism and excretion (F,F) • Pharmacokinetics (C,C) • Pharmacokinetics (C,C)
+• Mechanism of action (F,F) • Pharmacodynamics (C,C) • Pharmacodynamics (C,C)
+• Medication response • Schedules (C,C) • Schedules (C,C)
+relationships (F,F)
+Medication • Use a Medication Cross Check • Use a Medication Cross Check • Use a Medication Cross Check • Use a Medication Cross
+procedure (S,S) procedure (F,F) procedure (F,F) Check procedure (F,F)
+Administration
+• Use an autoinjector (S,S) • Use an autoinjector (S,S) • Use an autoinjector (S,S) • Use an autoinjector (S,S)
+• Use a unit-dose, premeasured • Use a unit-dose, premeasured • Use a unit-dose, premeasured • Use a unit-dose, premeasured
+intranasal device (S,S) intranasal device (S,S) intranasal device (S,S) intranasal device (S,S)
+• Use of tools/resources to • Administer medications to a • Administer medications to a • Administer medications to a
+facilitate safe administration of patient (F,F) patient (C,C) patient (C,C)
+weight-based dosing.
+• Provide pain management, • Provide pain management, • Provide pain management,
+including ethical and safety including ethical and safety including ethical and safety
+considerations (F,F) considerations (C,C) considerations (C,C)
+• Routes of administration (S,S) • Routes of administration (C,C) • Routes of administration
+(C,C)
+• Resources for safe
+administration of weight-based • Resources for safe
+dosing (F,F) administration of weight-
+based dosing (F,F)
+33
+ygolocamrahP
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Acute • Names (S,S) • Names (F,S) • Names (C,C) • Names (C,C)
+Medications • Effects (S,S) • Effects (S,S) • Effects (C,C) • Effects (C,C)
+• Indications (S,S) • Indications (F,S) • Indications (C,C) • Indications (C,C)
+• Contraindications (S,S) • Contraindications (F,S) • Contraindications (C,C) • Contraindications (C,C)
+• Side effects (S,S) • Side effects (F,S) • Side effects (C,C) • Side effects (C,C)
+• Routes of administration (S,S) • Routes of administration (F,S) • Routes of administration (C,C) • Routes of administration (C,C)
+• Dosages (S,S) • Dosages (F,S) • Dosages (C,C) • Dosages (C,C)
+• Actions (F,S) • Actions (C,C) • Actions (C,C)
+• Complications (F,S) • Complications (C,C) • Complications (C,C)
+• Interactions (F,S) • Interactions (C,C) • Interactions (C,C)
+Chronic or No knowledge related to this Specific medication classes to be Specific medication classes to be Specific medication classes
+competency is applicable at determined locally determined locally and examples to be determined
+Maintenance
+this level. • Class names (S,S) • Class names (S,S) locally
+Medications
+• Class indications (S,S) • Class indications (S,S) • Class names (F,S)
+• Class complications (S,S) • Class complications (S,S) • Class indications (F,S)
+• Class side effects (S,S) • Class side effects (S,S) • Class complications (F,S)
+• Polypharmacy (S,S) • Polypharmacy (S,S) • Class side effects (F,S)
+• Polypharmacy (F,S)
+34
+ygolocamrahP
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Airway Applies knowledge of anatomy Applies knowledge of anatomy Applies knowledge of upper Integrates knowledge of anatomy,
+and physiology to assure and physiology to patient airway anatomy and physiology physiology and pathophysiology
+Management,
+a patent airway, adequate assessment and management in to patient assessment and into the assessment to develop
+Respiration mechanical ventilation and order to assure a patent airway, management in order to assure and implement a treatment plan
+and respiration while awaiting adequate mechanical ventilation a patent airway, adequate with the goal of assuring a patent
+additional EMS response for and respiration for patients of mechanical ventilation and airway, adequate mechanical
+Ventilation
+patients of all ages. all ages. respiration for patients of all ventilation and respiration for
+ages. patients of all ages.
+Airway • Airway anatomy (F,S) • Airway anatomy (F,F) • Airway anatomy (F,F) • Airway anatomy (C,C)
+Management • Airway assessment (F,S) • Airway assessment (F,F) • Airway assessment (F,F) • Airway assessment (C,C)
+• Techniques of assuring a patent • Techniques of assuring a patent • Techniques of assuring a patent • Techniques of assuring a patent
+(Include age- airway (F,S) airway (F,F) airway (F,F) airway (C,C)
+related variations
+in pediatric and
+geriatric patients)
+Respiration • Anatomy of the respiratory • Anatomy of the respiratory • Anatomy of the respiratory • Anatomy of the respiratory
+system (F,S) system (F,F) system (C,F) system (C,C)
+(Include age- • Physiology and pathophysiology • Physiology and pathophysiology • Physiology and pathophysiology • Physiology and pathophysiology
+related variations of respiration (F,S) of respiration (F,C) of respiration (F,C) of respiration (C,C)
+in pediatric and - Pulmonary ventilation - Pulmonary ventilation - Pulmonary ventilation - Pulmonary ventilation
+geriatric patients)
+- Oxygenation - Oxygenation - Oxygenation - Oxygenation
+- Respiration - Respiration - Respiration - Respiration
+• External • External • External • External
+• Internal • Internal • Internal • Internal
+• Cellular • Cellular • Cellular • Cellular
+• Assessment and management • Assessment and management • Assessment and management • Assessment and management
+of adequate and inadequate of adequate and inadequate of adequate and inadequate of adequate and inadequate
+respiration (F,S) respiration (F,C) respiration (F,C) respiration (C,C)
+• Supplemental oxygen therapy • Supplemental oxygen therapy • Supplemental oxygen therapy • Supplemental oxygen therapy
+(F,S) (F,C) (F,C) (C,C)
+Ventilation • Assessment and management • Assessment and management • Assessment and management • Assessment and management
+of adequate and inadequate of adequate and inadequate of adequate and inadequate of adequate and inadequate
+ventilation (F,S) ventilation (F,F) ventilation (C,F) ventilation (C,C)
+(Include age-
+related variations • Effect of ventilation on cardiac • Effect of ventilation on cardiac • Effect of ventilation on cardiac • Effect of ventilation on cardiac
+in pediatric and output (F,S) output (F,F) output (C,F) output (C,C)
+geriatric patients)
+35
+noitalitneV
+dna
+noitaripseR
+,tnemeganaM
+yawriA
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Assessment Use scene information and Applies scene information and Same as EMT Level Integrate scene and patient
+patient assessment findings patient assessment findings assessment findings with
+to identify and manage (scene size up, primary and knowledge of epidemiology
+immediate life threats and secondary assessment, patient and pathophysiology to
+injuries within the scope of history and reassessment) to form a field impression. This
+practice of the EMR. guide emergency management. includes developing a list of
+differential diagnoses through
+clinical reasoning to modify the
+assessment and formulate a
+treatment plan.
+Scene • Scene safety/situational • Scene safety/situational • Scene safety/situational • Scene safety/situational
+awareness (C,C) awareness (C,C) awareness (C,C) awareness (C,C)
+Assessment
+• Scene management (F,F) • Scene management (F,F) • Scene management (F,F) • Scene management (C,C)
+• Impact of the environment on • Impact of the environment on • Impact of the environment on • Impact of the environment on
+patient care (F,F) patient care (F,F) patient care (F,F) patient care (C,C)
+• Addressing hazards (F,F) • Addressing hazards (F,F) • Addressing hazards (F,F) • Addressing hazards (C,C)
+• Violence (F,F) • Violence (F,F) • Violence (F,F) • Violence (C,C)
+• Need for additional or • Need for additional or • Need for additional or • Need for additional or
+specialized resources (F,F) specialized resources (F,F) specialized resources (F,F) specialized resources (F,F)
+• Standard precautions (F,F) • Standard precautions (F,F) • Standard precautions (F,F) • Standard precautions (F,F)
+• Multiple patient situations (F,F) • Multiple patient situations (F,F) • Multiple patient situations (F,F) • Multiple patient situations (C,C)
+Primary • Primary assessment (S,S) • Primary assessment (F,S) • Primary assessment (F,F) • Primary assessment (C,C)
+Assessment • Begin interventions needed to • Integration of treatment/ • Integration of treatment/ • Integration of treatment/
+preserve life (S,S) procedures needed to preserve procedures needed to preserve procedures needed to preserve
+life (F,S) life (F,F) life (C,C)
+(Include
+age-related
+variations
+in pediatric
+and geriatric
+patients)
+36
+tnemssessA
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+History Taking • Determining the chief • Investigation of the chief • Investigation of the chief • Investigation of the chief complaint
+complaint (S,S) complaint (F,F) complaint (F,F) (C,C)
+(Include • Mechanism of injury/ • Mechanism of injury/nature of • Mechanism of injury/nature of • Mechanism of injury/nature of illness
+age-related nature of illness (S,S) illness (F,F) illness (F,F) (C,C)
+variations • Associated signs and • Associated signs and • Associated signs and • Associated signs and symptoms
+in pediatric symptoms (S,S) symptoms (F,F) symptoms (F,F) (C,C)
+and geriatric • Past medical history (F,F) • Past medical history (F,F) • Past medical history (C,C)
+patients)
+• Pertinent negatives (F,F) • Pertinent negatives (F,F) • Pertinent negatives (C,C)
+• Interviewing techniques (C,C)
+• Therapeutic communication and
+adaptive interview techniques (C,C)
+Secondary • Assessment of vital • Assessment of vital signs (F,F) • Assessment of vital signs (C,F) • Assessment of vital signs (C,C)
+signs (S,S)
+Assessment • Assessment of pain (F,F) • Assessment of pain (C,F) • Assessment of pain (C,C)
+• Assessment of pain
+• Techniques of physical • Techniques of physical • Techniques of physical examination
+(S,S)
+(Include examination (F,F) examination (C,F) (C,C)
+age-related • Performing a rapid full - Respiratory system - Respiratory system - Respiratory system including
+body scan (S,S)
+variations including breath sound including breath sound breath sound quality
+in pediatric quality quality
+- Cardiovascular system
+and geriatric - Cardiovascular system - Cardiovascular system
+- Neurological system
+patients)
+- Neurological system - Neurological system
+- Musculoskeletal system
+- Musculoskeletal system - Musculoskeletal system
+- Major anatomical regions
+- Major anatomical regions - Major anatomical regions
+Monitoring No knowledge related • Pulse oximetry (S,S) • Pulse oximetry (S,S) • Pulse oximetry (S,S)
+Devices to this competency is • Non-invasive blood pressure • Non-invasive blood pressure • Non-invasive blood pressure (S,S)
+applicable at this level. (S,S) (S,S)
+• Cardiac monitoring – 12 lead ECG
+• Cardiac monitoring – 12 • Cardiac monitoring – 12 acquisition and transmission (F,F)
+lead ECG acquisition and lead ECG acquisition and
+• Blood glucose determination (S,S)
+transmission (S,S) transmission (S,S)
+• End tidal CO monitoring and
+• Blood glucose determination • Blood glucose determination 2
+interpretation of waveform
+(S,S) (S,S)
+capnography (F,F)
+• End tidal CO monitoring and
+2 • Venous blood sampling (S,S)
+interpretation of waveform
+capnography (S,S) • 12-lead ECG interpretation (F,F)
+• Venous blood sampling (S,S) • Blood chemistry analysis (F,F)
+Reassessment • How and when to • How and when to reassess • How and when to reassess • How and when to reassess patients
+reassess patients (S,S) patients (F,F) patients (F,F) (C,C)
+(Include age-
+related variations
+in pediatric and
+geriatric patients)
+37
+tnemssessA
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Medicine Recognizes and manages life Applies knowledge to provide Applies knowledge to Integrates assessment findings
+threats based on assessment basic emergency care and provide basic and selected with principles of epidemiology
+findings of a patient with a transportation based on advanced emergency care and pathophysiology to
+medical emergency while assessment findings for an and transportation based on formulate a field impression
+awaiting additional emergency acutely ill patient. assessment findings for an and implement a treatment/
+response. acutely ill patient. disposition plan for a patient
+with a medical complaint.
+Medical Overview • Assessment and management • Pathophysiology, assessment, • Pathophysiology, assessment, • Pathophysiology, assessment,
+of a medical complaint (S,S) and management of a medical and management of a medical and management of a medical
+complaints to include (S,F) complaints to include (F,F) complaints to include (C,C)
+(Include
+psychosocial - Transport mode - Transport mode - Transport mode
+aspects of age- - Destination decisions - Destination decisions - Destination decisions
+related assessment
+and treatment
+modifications for the
+major or common
+diseases and/
+or emergencies
+associated with
+pediatric and
+geriatric patients)
+Abdominal and • Anatomy, presentations • Acute and chronic • Acute and chronic • Acute and chronic
+and management of shock gastrointestinal hemorrhage (F,F) gastrointestinal hemorrhage (F,F) gastrointestinal hemorrhage
+Gastrointestinal
+associated with gastrointestinal (C,C)
+• Other gastrointestinal disorders • Other gastrointestinal disorders
+Disorders bleeding (S,S) to be determined locally (S,S) to be determined locally (S,S) • Bowel obstruction (C,C)
+• Liver and biliary tract disorders
+(Include (F,F)
+psychosocial
+• Pancreatitis (S,S)
+aspects of age-
+related assessment • Inflammatory disorders (S,S)
+and treatment • Peritonitis (S,S)
+modifications for the • Other gastrointestinal disorders
+major or common to be determined locally (S,S)
+diseases and/
+or emergencies
+associated with
+pediatric and
+geriatric patients)
+38
+enicideM
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Cardiovascular • Chest pain (S,S) • Acute coronary syndrome • Acute coronary syndrome • Acute coronary syndrome (C,C)
+(F,F) (C,F)
+• Hypertensive emergencies (C,C)
+(Include • Hypertensive emergencies • Hypertensive emergencies
+• Aortic aneurysm/dissection (F,F)
+psychosocial (S,S) (F,S)
+aspects of age- • Aortic aneurysm/dissection • Aortic aneurysm/dissection • Thromboembolism (F,F)
+related assessment (F,F) (F,F) • Heart failure (C,C)
+and treatment • Thromboembolism (F,F) • Thromboembolism (F,F) • Non-traumatic cardiac
+modifications for the tamponade (C,C)
+• Heart failure (F,F) • Heart failure (F,F)
+major or common
+• Cardiogenic shock (C,C)
+diseases and/ • Other cardiovascular disorders • Other cardiovascular disorders
+to be determined locally (S,S) to be determined locally (S,S) • Vascular disorders (C,C)
+or emergencies
+associated with • Cardiac rhythms (C,C)
+pediatric and • Conditions that predispose
+geriatric patients) patients to cardiac rhythm
+disturbances including WPW,
+Brugada, long QT syndrome
+and others (C,C)
+• Infectious diseases of the
+heart: endocarditis, myocarditis,
+pericarditis (F,F)
+• Congenital heart disease (F,F)
+• Hypertrophic cardiomyopathy
+(F,F)
+• Other cardiovascular disorders
+to be determined locally (S,S)
+Disorders of the • Epistaxis (S,S) • Epistaxis (S,S) • Epistaxis (F,F) • Epistaxis (F,F)
+Eyes, Ears, Nose, • Other eye, ear, nose and • Post-surgical oropharyngeal • Post-surgical oropharyngeal
+throat disorders to be hemorrhage (F,F) hemorrhage (F,F)
+and Throat determined locally (S,S)
+• Other eye, ear, nose and • Common or major diseases of
+throat disorders to be the eyes, ears, nose and throat
+(Include determined locally (S,S) (F,F)
+psychosocial
+• Other eye, ear, nose and throat
+aspects of age-
+disorders to be determined
+related assessment locally (S,S)
+and treatment
+modifications for the
+major or common
+diseases and/
+or emergencies
+associated with
+pediatric and
+geriatric patients)
+39
+enicideM
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Endocrine Disorders • Awareness that diabetic • Diabetic emergencies (F,F) • Diabetic emergencies (C,F) • Diabetic emergencies (C,C)
+emergencies cause altered
+• Other endocrine disorders to be • Other endocrine disorders to be • Chronic diabetes (C,C)
+mental status (S,S)
+(Include psychosocial determined locally (S,S) determined locally (S,S)
+• Adrenal disease (S,S)
+aspects of age-related
+assessment and • Pituitary and thyroid disorders
+(S,S)
+treatment modifications
+for the major or • Inborn errors of metabolism
+(S,S)
+common diseases
+and/or emergencies • Other endocrine disorders to
+associated with be determined locally (S,S)
+pediatric and geriatric
+patients)
+Genitourinary/Renal • Blood pressure assessment in • Complications related to renal • Complications related to renal • Complications of dialysis (C,C)
+hemodialysis patients (S,S) dialysis (S,S) dialysis (F,S)
+• Complications related to urinary
+(Include psychosocial • Complications related to urinary • Complications related to urinary catheter management (not
+aspects of age-related catheter management (not catheter management (not insertion) (S,S)
+assessment and insertion) (S,S) insertion) (S,S) • Renal calculi (C,C)
+treatment modifications • Kidney stones (S,S) • Kidney stones (F,S)
+• Sexual assault (Female and
+for the major or • Sexual assault (Female and • Sexual assault (Female and Male) (C,C)
+common diseases Male) (F,F) Male) (F,F)
+• Acute/chronic renal failure (C,C)
+and/or emergencies
+• Other GI/Renal to be • Other GI/Renal to be
+associated with determined locally (S,S) determined locally (S,S) • Acid base disturbances (C,C)
+pediatric and geriatric • Fluid and electrolytes (C,C)
+patients) • Infection (F,F)
+• Male genital tract conditions
+(F,F)
+• Other GI/Renal to be
+determined locally (S,S)
+Hematology No knowledge related to this • Sickle cell crisis (S,S) • Sickle cell crisis (F,F) • Sickle cell disease (C,C)
+competency is applicable at this • Clotting disorders (S,S) • Clotting disorders (S,S) • Coagulopathies (F,F)
+(Include psychosocial level.
+• Other hematologic disorders to • Other hematologic disorders to • Blood transfusion complications
+aspects of age-related
+be determined locally (S,S) be determined locally (S,S) (F,F)
+assessment and
+• Hemostatic disorders (F,F)
+treatment modifications
+for the major or • Red blood cell disorders (F,F)
+common diseases • White blood cell disorders (F,F)
+and/or emergencies
+• Other hematologic disorders to
+associated with be determined locally (S,S)
+pediatric and geriatric
+patients)
+40
+enicideM
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Immunology • Anaphylactic reactions (S,S) • Allergic and anaphylactic • Allergic and anaphylactic • Allergic and anaphylactic
+reactions (F,F) reactions (C,C) reactions (C,C)
+(Include • Other immunological • Systemic Inflammatory • Systemic Inflammatory
+psychosocial disorders to be determined Response Syndrome (SIRS) Response Syndrome (SIRS)
+aspects of age- locally (S,S) (C,C) (C,C)
+related assessment • Other immunological • Hypersensitivity (C,C)
+and treatment disorders to be determined • Anaphylactoid reactions (C,C)
+locally (S,S)
+modifications for the
+• Collagen vascular disease
+major or common
+(F,F)
+diseases and/
+• Transplant-related problems
+or emergencies
+(F,F)
+associated with
+• Immunodeficiency syndromes
+pediatric and
+(acquired or congenital) (F,F)
+geriatric patients)
+• Other immunological disorders
+to be determined locally (S,S)
+Infectious • Awareness of patient who • Assessment and • Assessment and • Assessment and management
+may have an infectious management of a patient management of a patient of a patient who may have an
+Diseases
+disease (S,S) who may have an infectious who may have an infectious infectious disease (S,S)
+disease (S,S) disease (S,S)
+• How to disinfect and • How to decontaminate the
+(Include
+decontaminate equipment • How to decontaminate the • How to decontaminate the ambulance and equipment
+psychosocial after treating a patient (S,S) ambulance and equipment ambulance and equipment after treating a patient (S,S)
+aspects of age- after treating a patient (S,S) after treating a patient (S,S)
+• Sepsis and septic shock (C,C)
+related assessment
+• Sepsis and septic shock (S,S) • Sepsis and septic shock (F,F)
+• HIV-related disease (C,C)
+and treatment
+• Other infectious diseases to • HIV (F,F)
+modifications for the • Hepatitis (C,C)
+be determined locally (S,S)
+major or common • Hepatitis B (F,F) • Meningitis (C,C)
+diseases and/ • Antibiotic resistance (F,F)
+• Antibiotic resistance (F,F)
+or emergencies
+• Current infectious diseases
+• Current infectious diseases
+associated with prevalent in the community
+prevalent in the community
+pediatric and (F,F)
+(F,F)
+geriatric patients) • Vaccine-preventable diseases
+• Vaccine-preventable diseases
+(F,F)
+(C,C)
+• Other infectious diseases to
+• Viral diseases: RSV, Herpes
+be determined locally (S,S)
+zoster (F,F)
+• Sexually transmitted infections
+(F,F)
+• Tetanus (S,S)
+• Vector-borne diseases (S,S)
+• Tuberculosis (S,S)
+• Emerging infectious disease
+(S,S)
+• Other infectious diseases to be
+determined locally (S,S)
+41
+enicideM
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Neurology • Decreased level of • Decreased level of • Decreased level of • Decreased level of
+responsiveness (S,S) responsiveness (S,S) responsiveness (F,F) responsiveness (C,C)
+(Include • Seizure (S,S) • Seizure (F,F) • Seizure (C,F) • Seizure (C,C)
+psychosocial
+• Stroke (S,S) • Stroke (F,F) • Stroke (F,F) • Stroke (C,C)
+aspects of age-
+• Dementia vs. delirium (S,S) • Dementia vs. delirium (S,S) • Dementia vs. delirium (S,S)
+related assessment
+and treatment • Alzheimer’s disease (S,S) • Alzheimer’s disease (S,S) • Alzheimer’s disease (S,S)
+modifications for the • Headache (F,F) • Headache (F,F) • Headache (C,C)
+major or common
+• Brief Resolved Unexplained • Brief Resolved Unexplained • Brief Resolved Unexplained
+diseases and/ Event (BRUE) (F,F) Event (BRUE) (F,F) Event (BRUE) (F,F)
+or emergencies
+• Other neurological disorders • Parkinson’s disease (S,S) • Parkinson’s disease (S,S)
+associated with to be determined locally (S,S)
+• Other neurological disorders • Hydrocephalus – CSF
+pediatric and
+to be determined locally (S,S) diversion devices or shunts
+geriatric patients)
+(F,F)
+• Other neurological disorders
+to be determined locally (S,S)
+Non-Traumatic • Non-traumatic fractures (S,S) • Non-traumatic fractures (F,F) • Non-traumatic fractures (F,F) • Non-traumatic fractures (F,F)
+Musculoskeletal • Other non-traumatic • Other non-traumatic • Disorders of the spine (F,F)
+musculoskeletal disorders to musculoskeletal disorders to
+Disorders be determined locally (S,S) be determined locally (S,S) • Joint abnormalities (F,F)
+• Muscle abnormalities (F,F)
+(Include • Overuse syndromes (F,F)
+psychosocial
+• Rhabdomyolysis (F,F)
+aspects of age-
+related assessment • Other non-traumatic
+musculoskeletal disorders to
+and treatment
+be determined locally (S,S)
+modifications for the
+major or common
+diseases and/
+or emergencies
+associated with
+pediatric and
+geriatric patients)
+42
+enicideM
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Psychiatric or • Recognition of behaviors • Basic principles of the mental • Basic principles of the mental • Basic principles of the mental
+that pose a risk to the EMR, health system (S,S) health system (S,S) health system (S,S)
+Behavioral
+patient or others
+• Patterns of violence, abuse • Patterns of violence, abuse • Patterns of violence, abuse
+Emergencies • Recognition of suicide risk and neglect (S,S) and neglect (F,F) and neglect (C,C)
+• Acute psychosis (F,F) • Acute psychosis (F,F) • Suicide ideation (C,C)
+(Include
+psychosocial • Suicide ideation (F,F) • Suicide ideation (C,C) • Excited delirium (C,C)
+aspects of age- • Excited delirium (F,F) • Excited delirium (F,F) • Anxiety (C,C)
+related assessment
+• Anxiety (F,F) • Anxiety (F,F) • Depression (C,C)
+and treatment
+modifications for the • Depression (F,F) • Depression (F,F) • Medical fear (F,F)
+major or common • Medical fear (F,F) • Medical fear (F,F) • Substance use disorder/
+diseases and/ addictive behavior (C,C)
+• Substance use disorder (F,F) • Substance use disorder/
+or emergencies
+addictive behavior (C,C) • PTSD (C,C)
+associated with • PTSD (F,F)
+pediatric and • Other psychiatric/behavioral • PTSD (F,F) • Acute psychosis (C,C)
+geriatric patients) disorders to be determined • Other psychiatric/behavioral • Cognitive disorders (F,F)
+locally (S,S) disorders to be determined
+• Thought disorders (F,F)
+locally (S,S)
+• Mood disorders (F,F)
+• Neurotic disorders (F,F)
+• Somatoform disorders (F,F)
+• Factitious disorders (F,F)
+• Personality disorders (F,F)
+• Other psychiatric/behavior
+disorders to be determined
+locally (S,S)
+43
+enicideM
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Respiratory • Respiratory • Respiratory distress/failure/ • Respiratory distress/failure/ • Respiratory distress/failure/arrest
+distress/failure/ arrest (F,F) arrest (F,F) (F,F)
+arrest (F,F)
+(Include psychosocial • Upper airway obstruction (F,F) • Upper airway diseases: foreign • Upper airway diseases: foreign body,
+aspects of age- • Upper airway body, croup, epiglottitis (C,F) croup, epiglottitis (C,C)
+• Lower airway disease: Asthma,
+related assessment obstruction (S,S) bronchiolitis, pneumonia, • Lower airway disease: Asthma, • Lower airway disease: Asthma,
+and treatment • Lower airway chronic obstructive pulmonary bronchiolitis, pneumonia, bronchiolitis, pneumonia, chronic
+modifications for the disease: Asthma, disease (COPD) (F,F) chronic obstructive pulmonary obstructive pulmonary disease
+bronchiolitis, disease (COPD) (C,F) (COPD), bronchopulmonary
+major or common • Spontaneous pneumothorax
+pneumonia, dysplasia (C,C)
+diseases and/ (F,F) • Spontaneous pneumothorax
+chronic obstructive
+or emergencies pulmonary disease • Pulmonary edema (F,F) (F,F) • Spontaneous pneumothorax (C,C)
+associated with (COPD) (S,S) • Pulmonary edema (C,F) • Pulmonary edema (C,C)
+• Other respiratory disorders to
+pediatric and be determined locally (S,S) • Other respiratory disorders to • Other respiratory disorders to be
+geriatric patients) be determined locally (S,S) determined locally (S,S)
+Toxicology • Carbon monoxide • Carbon monoxide poisoning • Carbon monoxide poisoning • Carbon monoxide poisoning (C,C)
+poisoning (S,S) (S,S) (S,S)
+• Nerve agent poisoning (S,S)
+(Include psychosocial • Nerve agent • Nerve agent poisoning (S,S) • Nerve agent poisoning (S,S)
+• Opioid toxicity (F,F)
+aspects of age- poisoning (S,S)
+• Opioid toxicity (S,S) • Opioid toxicity (F,F)
+related assessment • Opioid toxicity (S,S) • How and when to contact a poison
+• How and when to contact a • How and when to contact a control center (S,S)
+and treatment
+• How and when to poison control center (S,S) poison control center (S,S)
+modifications for the contact a poison • Poisons (inhaled, ingested, injected,
+• Poisons (inhaled, ingested, • Poisons (inhaled, ingested, absorbed) (F,F)
+major or common control center (S,S)
+injected, absorbed) (F,F) injected, absorbed) (F,F)
+diseases and/ • Alcohol intoxication and withdrawal
+or emergencies • Alcohol intoxication and • Alcohol intoxication and (C,C)
+withdrawal (F,F) withdrawal (F,F)
+associated with • Toxidromes (C,C)
+pediatric and • Other toxicological disorders to • Other toxicological disorders to - Cholinergic
+be determined locally (S,S) be determined locally (S,S)
+geriatric patients)
+- Anticholinergic
+- Sympathomimetic
+- Sedative/hypnotics
+- Opioid
+- Corrosive
+- Knockdown
+• Chronic or maintenance medications
+(C,C)
+• Drugs of abuse (C,C)
+• Non-FDA approved medications and
+supplements (C,C)
+• Serotonin Syndrome (C,C)
+• Malignant Hyperthermia (C,C)
+• Other toxicological disorders to be
+determined locally (S,S)
+44
+enicideM
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Shock and Uses assessment information Applies knowledge of the Applies knowledge to Integrates knowledge of
+to recognize shock, causes, pathophysiology provide basic and selected causes and pathophysiology
+Resuscitation
+respiratory failure or arrest, and management of shock, advanced emergency care into the management of
+and cardiac arrest based on respiratory failure or arrest, and transportation based on cardiac arrest and peri-arrest
+assessment findings and cardiac failure or arrest, assessment findings for a states.
+manages the emergency termination of resuscitative patient in shock, respiratory
+while awaiting additional efforts and post resuscitation failure or arrest, cardiac
+emergency response. management. failure or arrest, termination
+of resuscitative efforts
+and post resuscitation
+management.
+Shock • Definition (S,S) • Essential components in • Essential components in • Essential components in
+normal perfusion (F,S) normal perfusion (F,F) normal perfusion (C,C)
+• Physiologic response (S,S)
+(Include • Physiologic response (S,S) • Physiologic response (F,F) • Physiologic response (C,C)
+psychosocial
+• Types of shock (S,S) • Types of shock (F,F) • Types of shock (C,C)
+aspects of age-
+• Treatment of shock (S,S) • Treatment of shock, • Treatment of shock,
+related assessment
+hypoperfusion and hypoperfusion and
+and treatment dehydration (C,C) dehydration (C,C)
+modifications • Complications of shock (F,F) • Complications of shock (C,C)
+for pediatric and
+geriatric patients) • Circulatory assist devices • Circulatory assist devices
+(F,F) (C,C)
+Resuscitation • Ethical issues in resuscitation • Ethical issues in resuscitation • Ethical issues in resuscitation • Ethical issues in resuscitation
+(S,S) (C,C) (C,C) (C,C)
+from Cardiac
+• CPR physiology (S,S) • CPR physiology (F,F) • CPR physiology (F,F) • CPR physiology (C,C)
+Arrest
+• Resuscitation system • Resuscitation system • Resuscitation system • Resuscitation system
+components (S,S) components (F,F) components (F,F) components (C,C)
+(Include
+• Special arrest and peri-arrest • Special arrest and peri-arrest • Special arrest and peri-arrest • Special arrest and peri-arrest
+psychosocial
+situations (S,S) situations (F,F) situations (F,F) situations (C,C)
+aspects of age-
+related assessment • Postresuscitation support • Postresuscitation support (C,C) • Postresuscitation support (C,C)
+(F,F)
+and treatment • Termination of resuscitation • Termination of resuscitation
+modifications • Termination of resuscitation (C,C) (C,C)
+(F,F)
+for pediatric and • Premorbid conditions (C,C)
+geriatric patients)
+45
+noitaticsuseR
+dna
+kcohS
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Trauma Uses knowledge to recognize Applies knowledge to provide Applies knowledge to Integrates assessment findings
+and manage life threats based basic emergency care and provide basic and selected with principles of epidemiology
+on assessment findings for an transportation based on advanced emergency care and pathophysiology to
+acutely injured patient while assessment findings for an and transportation based on formulate a field impression
+awaiting additional emergency acutely injured patient. assessment findings for an to implement a treatment/
+medical response. acutely injured patient. disposition plan for an acutely
+injured patient.
+Trauma Overview No knowledge related to this • Trauma scoring (F,F) • Trauma scoring (F,F) • Trauma scoring (C,C)
+competency is applicable at • Transport and destination • Transport and destination • Transport and destination
+(Include psychosocial this level. issues (F,F) issues (F,F) issues (C,C)
+aspects of age-related
+• Transport mode (F,F) • Transport mode (F,F) • Transport mode (F,F)
+assessment and
+treatment modifications
+for the major or common
+diseases and/or
+emergencies associated
+with pediatric and
+geriatric patients)
+Abdominal and • Blunt versus penetrating • Blunt versus penetrating • Blunt versus penetrating • Blunt versus penetrating
+mechanisms (S,S) mechanisms (F,S) mechanisms (F,F) mechanisms (F,F)
+Genitourinary Trauma
+• Evisceration (S,S) • Evisceration (S,S) • Evisceration (S,S) • Evisceration (S,S)
+(Include psychosocial • Impaled object (S,S) • Impaled object (S,S) • Impaled object (S,S) • Impaled object (S,S)
+aspects of age-related • Solid and hollow organ injuries • Solid and hollow organ injuries • Solid and hollow organ injuries
+assessment and (F,S) (F,F) (F,F)
+treatment modifications
+• Injuries to the internal or • Injuries to the internal or • Injuries to the internal or
+for the major or common external genitalia (F,S) external genitalia (F,F) external genitalia (F,F)
+diseases and/or
+• Vascular injury (F,F) • Vascular injury (F,F)
+emergencies associated
+• Retroperitoneal injuries (F,F) • Retroperitoneal injuries (F,F)
+with pediatric and
+geriatric patients)
+Bleeding • Bleeding (S,S) • Bleeding (F,F) • Bleeding (F,F) • Bleeding (F,F)
+• Fluid resuscitation (C,C) • Fluid resuscitation (C,C)
+(Include psychosocial
+aspects of age-related
+assessment and
+treatment modifications
+for the major or common
+diseases and/or
+emergencies associated
+with pediatric and
+geriatric patients)
+46
+amuarT
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Chest Trauma • Blunt versus penetrating • Blunt versus penetrating • Blunt versus penetrating • Blunt versus penetrating
+mechanisms (S,S) mechanisms (F,S) mechanisms (F,S) mechanisms (F,S)
+(Include psychosocial • Open chest wound (S,S) • Open chest wound (S,S) • Open chest wound (S,S) • Open chest wound (S,S)
+aspects of age-related
+• Impaled object (S,S) • Impaled object (S,S) • Impaled object (S,S) • Impaled object (S,S)
+assessment and
+• Hemothorax (F,S) • Hemothorax (F,F) • Hemothorax (C,C)
+treatment modifications
+for the major or • Pneumothorax (F,S) • Pneumothorax (F,F) • Pneumothorax (C,C)
+common diseases • Cardiac tamponade (F,S) • Cardiac tamponade (F,F) • Cardiac tamponade (C,C)
+and/or emergencies
+• Rib fractures (F,S) • Rib fractures (F,F) • Rib fractures (C,C)
+associated with
+• Flail chest (F,S) • Flail chest (F,F) • Flail chest (C,C)
+pediatric and geriatric
+patients) • Commotio cordis (F,S) • Commotio cordis (F,S) • Commotio cordis (F,S)
+• Traumatic aortic disruption • Traumatic aortic disruption
+(F,F) (C,C)
+• Pulmonary contusion (F,F) • Pulmonary contusion (C,C)
+• Blunt cardiac injury (F,F) • Blunt cardiac injury (C,C)
+• Traumatic asphyxia (F,F) • Traumatic asphyxia (C,C)
+• Tracheobronchial disruption
+(C,C)
+• Diaphragmatic rupture (C,C)
+Environmental • Drowning (S,S) • Drowning (F,F) • Drowning (F,F) • Drowning (C,C)
+Emergencies • Temperature-related illness • Temperature-related illness • Temperature-related illness • Temperature-related illness
+(S,S) (F,F) (F,F) (C,C)
+• Bites and envenomations • Bites and envenomations (F,F) • Bites and envenomations (F,F) • Bites and envenomations
+(Include psychosocial
+(S,S) (C,C)
+aspects of age-related • Lightning injury (F,F) • Lightning injury (F,F)
+• Lightning injury (S,S) • Lightning injury (C,C)
+assessment and • Other environmental • Other environmental
+treatment modifications • Other environmental emergencies to be determined emergencies to be determined • Other environmental
+emergencies to be determined locally (S,S) locally (S,S) emergencies to be determined
+for the major or
+locally (S,S) locally (S,S)
+common diseases
+and/or emergencies
+associated with
+pediatric and geriatric
+patients)
+47
+amuarT
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Head, Facial, Neck, • Life threats (S,S) • Life threats (S,S) • Life threats (S,S) • Life threats (S,S)
+and Spine Trauma • Spine trauma (S,S) • Spine trauma (F,F) • Spine trauma (F,F) • Spine trauma (C,C)
+• Penetrating neck trauma (F,F) • Penetrating neck trauma (F,F) • Penetrating neck trauma (C,C)
+(Include psychosocial • Laryngotracheal injuries (F,F) • Laryngotracheal injuries (C,F) • Laryngotracheal injuries (C,C)
+aspects of age-related • Shaken Baby Syndrome (F,F) • Shaken Baby Syndrome (F,F) • Shaken Baby Syndrome (F,F)
+assessment and
+• Facial fractures (S,S) • Facial fractures (C,F) • Facial fractures (C,F)
+treatment modifications
+• Skull fractures (S,S) • Skull fractures (S,S) • Skull fractures (C,C)
+for the major or common
+diseases and/or • Foreign bodies in the eyes (S,S) • Foreign bodies in the eyes (S,S) • Foreign bodies in the eyes (S,S)
+emergencies associated • Globe rupture (S,S) • Globe rupture (S,S) • Globe rupture (S,S)
+with pediatric and
+• Dental trauma (S,S) • Dental trauma (S,S) • Dental trauma (S,S)
+geriatric patients)
+• Severe epistaxis (S,S) • Severe epistaxis (S,S) • Severe epistaxis (S,S)
+• Unstable facial fractures (F,F)
+• Orbital fractures (F,F)
+• Perforated tympanic membrane
+(F,F)
+• Mandibular fractures (C,C)
+Multi-System Trauma • Multi-system • Multi-system trauma (F,F) • Multi-system trauma (C,F) • Multi-system trauma (C,C)
+trauma (S,S)
+• Blast injuries (F,F) • Blast injuries (F,F) • Blast injuries (C,C)
+(Include psychosocial
+aspects of age-related
+assessment and
+treatment modifications
+for the major or common
+diseases and/or
+emergencies associated
+with pediatric and
+geriatric patients)
+Nervous System • Traumatic brain • Traumatic brain injury (F,F) • Traumatic brain injury (C,F) • Traumatic brain injury (C,C)
+injury (S,S)
+Trauma • Spinal cord injury (F,F) • Spinal cord injury (F,F) • Spinal cord injury (C,C)
+• Spinal shock (C,C)
+(Include psychosocial • Cauda equina syndrome (F,F)
+aspects of age-related • Nerve root injury (F,F)
+assessment and
+• Peripheral nerve injury (F,F)
+treatment modifications
+for the major or common
+diseases and/or
+emergencies associated
+with pediatric and
+geriatric patients)
+48
+amuarT
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Orthopedic Trauma • Open fractures (S,S) • Open fractures (F,F) • Open fractures (F,F) • Open fractures (C,C)
+• Closed fractures (S,S) • Closed fractures (F,F) • Closed fractures (F,F) • Closed fractures (C,C)
+(Include psychosocial
+• Dislocations (S,S) • Dislocations (F,F) • Dislocations (F,F) • Dislocations (C,C)
+aspects of age-related
+assessment and • Amputations (S,S) • Amputations/replantation (F,F) • Amputations/replantation • Amputations/replantation
+(C,F) (C,F)
+treatment modifications • Upper and lower extremity
+for the major or common orthopedic trauma (F,F) • Upper and lower extremity • Upper and lower extremity
+orthopedic trauma (F,F) orthopedic trauma (C,C)
+diseases and/or • Sprains/strains (F,F)
+emergencies associated • Sprains/strains (F,F) • Sprains/strains (F,F)
+• Pelvic fractures (F,F)
+with pediatric and • Pelvic fractures (C,F) • Pelvic fractures (C,F)
+geriatric patients)
+• Pediatric fractures (F,F)
+• Tendon laceration/
+transection/ rupture (Achilles
+and patellar) (F,F)
+Soft Tissue Trauma • Wounds (avulsion, bite, • Wounds (avulsion, bite, • Wounds (avulsion, bite, • Wounds (avulsion, bite,
+laceration, puncture, incision) laceration, puncture, incision) laceration, puncture, incision) laceration, puncture, incision)
+(S,S) (F,F) (F,F) (C,C)
+(Include psychosocial
+aspects of age-related • Burns (electrical, chemical, • Burns (electrical, chemical, • Burns (electrical, chemical, • Burns (electrical, chemical,
+assessment and thermal) including inhalation thermal, radiation) including thermal, radiation) including thermal, radiation) including
+injury (S,S) inhalation injury (F,F) inhalation injury (F,F) inhalation injury (C,C)
+treatment modifications
+for the major or common • Chemicals in the eye and on • Chemicals in the eye and on • Chemicals in the eye and on • Chemicals in the eye and on
+the skin (S,S) the skin (S,S) the skin (S,S) the skin (S,S)
+diseases and/or
+emergencies associated • Crush/compartment syndrome • Crush/compartment syndrome • Crush/compartment syndrome
+with pediatric and (S,S) (F,S) (C,C)
+geriatric patients) • High-pressure injection injury • High-pressure injection injury • High-pressure injection injury
+(S,S) (S,S) (S,S)
+Special Considerations • Pregnant patient (S,S) • Pregnant patient (F,F) • Pregnant patient (C,F) • Pregnant patient (C,C)
+in Trauma • Pediatric patient (S,S) • Pediatric patient (F,F) • Pediatric patient (C,F) • Pediatric patient (C,C)
+• Geriatric patient (S,S) • Geriatric patient (F,F) • Geriatric patient (C,F) • Geriatric patient (C,C)
+• Cognitively impaired patient • Cognitively impaired patient • Cognitively impaired patient
+(F,F) (C,F) (C,C)
+49
+amuarT
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Special Patient Recognizes and Applies knowledge of Applies knowledge of growth, Integrates assessment findings with
+manages life threats growth, development and development and aging and principles of pathophysiology and
+Populations
+based on simple aging and assessment assessment findings to provide knowledge of psychosocial needs
+assessment findings for findings to provide basic basic and selected advanced to formulate a field impression and
+a patient with special emergency care and emergency care and transportation implement a treatment/disposition plan
+needs while awaiting transportation for a patient for a patient with special needs. for patients with special needs.
+additional emergency with special needs.
+response.
+Gynecology • Shock associated with • Vaginal bleeding (F,F) • Vaginal bleeding (F,F) • Vaginal bleeding (C,C)
+vaginal bleeding (S,S)
+• Infections (S,S) • Infections (S,S) • Infections (F,F)
+(Include psychosocial
+aspects of age-related • Other gynecological • Other gynecological disorders to • Ovarian emergencies (F,F)
+assessment and disorders to be determined be determined locally (S,S) • Vaginal foreign body (F,F)
+treatment modifications locally (S,S)
+for the major or • Other gynecological disorders to be
+common diseases determined locally (S,S)
+and/or emergencies
+associated with
+pediatric and geriatric
+patients)
+Obstetrics • Normal delivery (S,S) • Normal delivery (F,F) • Normal delivery (F,F) • Normal delivery (C,C)
+• Vaginal bleeding in the • Vaginal bleeding in the • Vaginal bleeding in the pregnant • Vaginal bleeding in the pregnant patient (S,S)
+pregnant patient (S,S) pregnant patient (S,S) patient (S,S)
+• Normal pregnancy (anatomy and physiology)
+• Normal pregnancy (anatomy • Normal pregnancy (anatomy and (C,C)
+and physiology) (F,F) physiology) (F,F)
+• Pathophysiology of complications of
+• Pathophysiology of • Pathophysiology of complications pregnancy (C,C)
+complications of pregnancy of pregnancy (F,F)
+• Assessment of the pregnant patient (C,C)
+(F,F)
+• Assessment of the pregnant patient
+• Abnormal delivery (nuchal cord, prolapsed
+• Assessment of the pregnant (F,F)
+cord, breech, shoulder dystocia, prematurity,
+patient (F,F)
+• Abnormal delivery (nuchal cord, multiparity) (C,C)
+• Abnormal delivery (nuchal prolapsed cord, breech, shoulder
+• Third trimester and antepartum bleeding
+cord, prolapsed cord, dystocia, prematurity, multiparity)
+(placenta previa. placental abruption) (F,F)
+breech, shoulder dystocia, (F,F)
+prematurity, multiparity) (F,F) • Spontaneous abortion/miscarriage (C,C)
+• Third trimester and antepartum
+• Third trimester and bleeding (placenta previa. placental • Ectopic pregnancy (C,C)
+antepartum bleeding abruption) (F,F)
+• Preeclampsia/eclampsia (C,C)
+(placenta previa. placental
+• Spontaneous abortion/miscarriage
+abruption) (F,F) • Postpartum complications (C,C)
+(F,F)
+• Spontaneous abortion/ • High-risk pregnancy (C,C)
+• Ectopic pregnancy (F,F)
+miscarriage (F,F)
+• Complications of labor (fetal distress,
+• Preeclampsia/eclampsia (F,F)
+• Ectopic pregnancy (F,F) premature rupture of membranes, rupture of
+• Postpartum complications (C,C) uterus) (C,C)
+• Preeclampsia/eclampsia
+(F,F) • Hyperemesis gravidarum (S,S)
+• Postpartum complications • Postpartum depression (S,S)
+(S,S)
+50
+snoitalupoP
+tneitaP
+laicepS
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Neonatal • Newborn stabilization (S,S) • Newborn stabilization (F,F) • Newborn stabilization (F,F) • Newborn stabilization (C,C)
+Care • Neonatal resuscitation (S,S) • Neonatal resuscitation (F,F) • Neonatal resuscitation (F,F) • Neonatal resuscitation (C,C)
+• Anatomy and physiology of neonatal
+circulation (C,C)
+Pediatrics The Education Standards now integrate assessment, diagnostic, treatment and disposition modifications for pediatric-specific diseases and
+emergencies into each section of the document.
+Geriatrics The Education Standards now integrate assessment, diagnostic, treatment and disposition modifications for geriatric-specific diseases and
+emergencies into each section of the document
+Patients • Recognizing and reporting • Recognizing and reporting • Recognizing and reporting • Recognizing and reporting abuse
+abuse and neglect (S,S) abuse and neglect (S,S) abuse and neglect (S,S) and neglect (S,S)
+with Special
+• Abuse/Intimate partner • Abuse/Intimate partner • Abuse/Intimate partner violence
+Challenges violence (S,S) violence (F,F) (C,C)
+• Neglect (S,S) • Neglect (F,F) • Neglect (C,C)
+• Child/dependent adult • Child/dependent adult • Child/dependent adult maltreatment
+maltreatment (S,S) maltreatment (F,F) (C,C)
+• Homelessness (S,S) • Homelessness (F,F) • Homelessness (F,F)
+• Poverty (S,S) • Poverty (F,F) • Poverty (C,C)
+• Bariatrics (S,S) • Bariatrics (F,F) • Bariatrics (C,C)
+• Technology dependent (locally • Technology dependent (locally • Technology dependent (vagal nerve
+determined) (S,S) determined) (F,F) stimulators, CSF diversion devices
+or shunts, VAD, pacemakers, gastric
+• Hospice/ terminally ill (S,S) • Hospice/ terminally ill (F,F)
+tubes and others to be locally
+• Tracheostomy care/dysfunction • Tracheostomy care/dysfunction determined) (C,C)
+(S,S) (F,F)
+• Hospice/ terminally ill (C,C)
+• Homecare (S,S) • Homecare (F,F)
+• Tracheostomy care/dysfunction
+• Sensory deficit/loss (S,S) • Sensory deficit/loss (F,F) (C,C)
+• Developmental disability (S,S) • Developmental disability (F,F) • Homecare (F,F)
+• Autism Spectrum Disorder • Autism Spectrum Disorder • Sensory deficit/loss (F,F)
+(S,S) (F,F)
+• Developmental disability (F,F)
+• Orthotics/prosthetics (S,S) • Orthotics/prosthetics (S,S)
+• Autism Spectrum Disorder (F,F)
+• Orthotics/prosthetics (S,S)
+51
+snoitalupoP
+tneitaP
+laicepS
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+EMS Knowledge of operational roles Same as EMR Level Same as EMR Level Same as EMR Level
+and responsibilities to ensure
+Operations
+patient, public and personnel
+safety
+Emergency • Risks and responsibilities of • Risks and responsibilities of • Risks and responsibilities of • Risks and responsibilities of
+emergency response and radio emergency response and radio emergency response and radio emergency response and radio
+Response
+communications (S,S) communications (S,S) communications (S,S) communications (S,S)
+Vehicles • Risks and responsibilities of • Risks and responsibilities of • Risks and responsibilities of • Risks and responsibilities of operating
+operating emergency vehicles operating emergency vehicles operating emergency vehicles emergency vehicles (S,S)
+(S,S) (S,S) (S,S)
+• Pediatric transport considerations
+• Pediatric transport • Pediatric transport (F,F)
+considerations (F,F) considerations (F,F)
+• Risks and responsibilities of transport
+• Risks and responsibilities of • Risks and responsibilities of (F,F)
+transport (F,F) transport (F,F)
+Incident • Establish and work within the • Establish and work within the • Establish and work within the • Establish and work within the incident
+incident management system incident management system incident management system management system (F,F)
+Management
+(S,S) (F,F)
+(F,F) • Understand the principles of Crew
+• Understand the principles of Resource Management (F,F)
+(The extent • Understand the principles of Crew
+Crew Resource Management
+of information Resource Management (F,F) (F,F)
+presented in this
+area will vary at
+the regional and
+local level.)
+Multiple • Operational goals (F,F) • Operational goals (F,F) • Operational goals (F,F) • Operational goals (F,F)
+Casualty • Field triage (F,F) • Field triage (F,F) • Field triage (F,F) • Field triage (F,F)
+Incidents • Destination determination (F,F) • Destination determination (F,F) • Destination determination (F,F)
+• Treatment principles (F,F) • Treatment principles (F,F)
+• Treatment principles (F,F)
+(The extent
+of information
+presented in this
+area will vary at
+the regional and
+local level.)
+Air Medical • Safe air medical operations (S,S) • Safe air medical operations (S,S) • Safe air medical operations (S,S) • Safe air medical operations (S,S)
+• Criteria for utilizing air medical • Criteria for utilizing air medical • Criteria for utilizing air medical • Criteria for utilizing air medical
+(The extent response (S,S) response (S,S) response (S,S)
+response (S,S)
+of information
+• Medical risks/needs/advantages • Medical risks/needs/advantages • Medical risks/needs/advantages (F,F)
+presented in this (S,S) • Medical risks/needs/advantages (F,F)
+area will vary at (F,F)
+the regional and
+local level.)
+52
+snoitarepO
+SME
+
+National EMS Education Standards
+Back to Table of Contents >
+EMR EMT AEMT Paramedic
+Rescue Operations • Safety principles of rescue • Safety principles of rescue • Safety principles of rescue • Safety principles of
+operations (S,S) operations (S,S) operations (S,S) rescue operations (S,S)
+(The extent of information
+presented in this area will
+vary at the regional and
+local level.)
+Hazardous Materials • Risks and responsibilities of • Risks and responsibilities of • Risks and responsibilities of • Risks and
+operating on the scene of a operating on the scene of a operating on the scene of a responsibilities of
+hazardous materials incident hazardous materials incident operating on the (The extent of information hazardous materials incident
+(S,S) (S,S) scene of a hazardous
+presented in this area will (S,S)
+materials incident (S,S)
+vary at the regional and
+local level.)
+Mass Casualty Incidents • Risks and responsibilities of • Risks and responsibilities of • Risks and responsibilities of • Risks and
+operating on the scene of a operating on the scene of a operating on the scene of a responsibilities of
+due to Terrorism and
+natural or man-made disaster natural or man-made disaster operating on the scene
+natural or man-made disaster
+Disaster (F,F) (F,F) (F,F) of a natural or man-
+made disaster (F,F)
+(The extent of information
+presented in this area will
+vary at the regional and
+local level.)
+53
+snoitarepO
+SME
+
+National EMS Education Standards
+Back to Table of Contents >
+Clinical Behavior/Judgment
+EMR EMT AEMT Paramedic
+Assessment • Perform a simple assessment • Perform a basic history and • Perform a basic history and • Perform a comprehensive
+to identify life threats, identify physical examination to identify physical examination to identify history and physical
+injuries requiring spinal motion acute complaints and monitor acute complaints and monitor examination to identify factors
+restriction and conditions changes. changes. affecting the health and health
+requiring treatment within the needs of a patient.
+• Formulate a field diagnosis • Formulate a field diagnosis
+scope of practice of the EMR:
+based upon an actual and/or based upon an actual and/or • Relate assessment findings
+potential illness or injury. potential illness or injury. to underlying pathological and
+physiological changes in the
+patient’s condition.
+• Integrate and synthesize the
+multiple determinants of health
+and clinical care.
+• Formulate a field diagnosis
+based on an analysis of
+comprehensive assessment
+findings, anatomy, physiology,
+pathophysiology and
+epidemiology.
+• Perform health screening and
+referrals.
+Therapeutic • Effectively communicates in a non-discriminatory manner that addresses inherent or unconscious bias, is culturally aware and sensitive,
+and intended to improve patient outcome.
+Communication and
+Cultural Humility
+Psychomotor Skills • Safely and effectively perform all psychomotor skills within the National EMS Scope of Practice Model AND state Scope of Practice at this level.
+54
+
+National EMS Education Standards
+Back to Table of Contents >
+Clinical Behavior/Judgment
+EMR EMT AEMT Paramedic
+Professionalism Demonstrate professional affective domain behaviors including but not limited to: Is a role model of exemplary
+professional affective domain
+• Integrity
+behaviors including but not limited
+• Empathy/compassion
+to:
+• Self-motivation
+• Appearance/personal hygiene • Integrity
+• Self-confidence • Empathy/compassion
+• Communications • Self-motivation
+• Time management • Appearance/personal hygiene
+• Teamwork/diplomacy • Self-confidence
+• Respect • Communications
+• Patient advocacy • Time management
+• Careful delivery of service • Teamwork/diplomacy
+• Lifelong learning • Respect
+• Patient advocacy
+• Careful delivery of service
+• Lifelong learning
+Decision Making • Initiates simple interventions • Initiates interventions based on assessment findings intended • Performs interventions as part
+based on assessment to provide symptom relief (within the provider’s scope of of a treatment plan intended
+findings. practice) while providing access to definitive care to provide symptom relief and
+improve the overall health of the
+• Evaluates the effectiveness of interventions and modifies
+patient.
+treatment plan accordingly.
+• Evaluates the effectiveness
+of interventions and modifies
+treatment plan accordingly.
+• Evaluates decision making
+strategy for cognitive errors to
+enhance future critical thinking
+skills (metacognition)
+Record Keeping • Report and document • Report and document assessment findings, interventions performed, and clinical decision making
+assessment findings and
+interventions performed.
+Team Dynamics • Manage the scene until care • The entry-level clinician serves as a team member, while gaining the experience necessary to
+is transferred to an EMS function as the team leader.
+team member licensed at a
+higher level arrives.
+Safety • Ensure the safety of the rescuer, other public safety personnel, civilians and the patient.
+55
+
+National EMS Education Standards
+Back to Table of Contents >
+Educational Infrastructure
+EMR EMT AEMT2 Paramedic
+Educational • Facility sponsored or approved by sponsoring agency Reference
+• Sponsoring agency commitment to diversity, equity and inclusion Committee on
+Facilities • ADA compliant facility
+Accreditation
+• Sufficient space for class size
+for EMS
+• Controlled environment
+Professions
+(CoAEMSP)
+Student Space • Provide space sufficient for students to attend classroom sessions, take notes, and participate in classroom activities Standards and
+• Provide space for students to participate in kinematic learning and practice activities
+Guidelines
+(www.coaemsp.
+org)1
+Instructional • Provide basic instructional support material
+• Provide audio, visual, and kinematic aids to support and supplement didactic instruction
+Resources
+Instructor • Provide space for instructor preparation
+Preparation • Provide support equipment for instructor preparation
+Resources
+Storage Space • Provide adequate and secure storage space for instructional materials
+1 The National EMS Education Agenda for the Future: A Systems Approach (2000) calls for national accreditation of Paramedic programs. The Commission on Accreditation of Allied Health Education
+Programs (CAAHEP) accredits programs upon the recommendation of the Committee on Accreditation of Educational Programs for the Emergency Medical Services Professions (CoAEMSP). CAAHEP
+is the only national agency that offers Paramedic educational programmatic accreditation and is used or recognized by most states. Recognition of national accreditation remains the responsibility of
+each state.
+2 The 2019 and 2021 updated National Scope of Practice Model call for national accreditation of AEMT programs. The target for full implementation of AEMT program accreditation is January 1, 2025.
+Until that date, AEMT programs should reference the existing infrastructure suggestions within this document. The Commission on Accreditation of Allied Health Education Programs (CAAHEP) accredits
+programs upon the recommendation of the Committee on Accreditation of Educational Programs for the Emergency Medical Services Professions (CoAEMSP).CAAHEP is the only national agency that
+offers EMS programmatic accreditation and is used or recognized by most states. Recognition of national accreditation remains the responsibility of each state.
+56
+
+National EMS Education Standards
+Back to Table of Contents >
+Educational Infrastructure
+EMR EMT AEMT Paramedic
+Sponsorship Sponsoring organizations shall be one of the following: Reference
+• Accredited educational institution Committee on
+Accreditation
+• Public safety organization
+for EMS
+• Accredited hospital, clinic or medical center, or Professions
+• Other state approved institution or organization (CoAEMSP)
+Standards and
+Guidelines
+Programmatic • Sponsoring organization shall have programmatic approval by authority having jurisdiction for program approval (state) (www.
+Approval
+coaemsp.org)1
+Faculty Course primary instructors should:
+• Be educated at a level higher than they are teaching; however, as a minimum, they must be educated at the level they are
+teaching
+• Have completed an approved instructor training program or equivalent
+Medical Director • Provide medical oversight for all medical aspects of instruction
+Oversight
+Hospital/Clinical • None required at this level • The student must demonstrate • The student must demonstrate
+the ability to perform an adequate the ability to perform an adequate
+Experience assessment and implement an assessment and implement an
+adequate treatment plan. adequate treatment plan.
+- These can be performed in an
+emergency department, ambulance,
+clinic, nursing home, doctor’s office,
+on a standardized patient or in an
+alternative clinical environment when
+clinical access is not available.
+57
+
+National EMS Education Standards
+Back to Table of Contents >
+Educational Infrastructure
+EMR EMT AEMT Paramedic
+Field Experience • None required at this level • The student should participate in and document • The student must participate in and Reference
+patient contacts in a field experience in an document both patient contacts and team Committee on
+ambulance, mobile health care experience, leadership roles in a field experience
+Accreditation for
+or simulated environment when ambulance approved by the medical director and
+EMS Professions
+experience is not available as approved by the program director.
+medical director and program director. This may (CoAEMSP)
+occur in an ambulance, ambulance experience, Standards and
+or simulated environment when ambulance Guidelines (www.
+experiences are not available. coaemsp.org)1
+Course Length • Instructors may use a variety of formats to • Instructors may use a variety of formats to • Instructors may use a variety of formats
+deliver content including but not limited to: deliver content including but not limited to: to deliver content including but not
+limited to:
+- Independent student preparation - Independent student preparation
+- Independent student preparation
+- Synchronous or asynchronous - Synchronous or asynchronous instruction
+instruction - Synchronous or asynchronous
+- Face-to-face instruction
+instruction
+- Face-to-face instruction
+- Pre- or co-requisites
+- Face-to-face instruction
+- Pre- or co-requisites
+• Course length should be based on - Pre- or co-requisites
+• Course length should be based on competency, not hours
+competency, not hours • Course length should be based on
+- Consensus opinion is that students should
+competency, not hours
+- Consensus opinion is that students need a minimum of 150 clock hours including
+should need a minimum of 48 didactic the four integrated phases of education - Consensus opinion is that
+and laboratory clock hours to cover the (didactic, laboratory, clinical and field) to cover students should need a minimum
+material. the material of 200 clock hours beyond EMT
+requirements including the four
+integrated phases of education
+(didactic, laboratory, clinical and
+field) to cover the material
+Course Design • Provide the following components of • Provide the following components of instruction:
+instruction:
+- Didactic instruction
+- Didactic instruction - Skills laboratories
+- Skills laboratories - Hospital/clinical experience
+- Field experience
+Student • Perform knowledge, skill and professional behavior evaluation based on educational standards and program objectives
+Assessment • Provide several methods of assessing achievement
+• Provide assessment that measures, as a minimum, entry-level competency in all domains
+Program • Provide evaluation of program instructional effectiveness
+Evaluation • Provide evaluation of organizational and administrative effectiveness of program
+58
+
+Back to Table of Contents >
+Glossary
+Academic institution – Body or establishment instituted for and instructors do not interact at the same time.
+an educational purpose that provides college credit or awards
+degrees. Certification – The issuing of a certificate by a private agency
+based upon deemed competency established through standards
+Accreditation – The granting of approval by an official review adopted by that agency and met by the individual.
+board after meeting specific requirements. Typical requisites may
+cover areas such as program structure, processes, resources Cognitive domain – Describes learning that takes place through
+and student evaluation. The review board is nongovernmental the process of thinking—it deals with facts and knowledge.
+and the review is collegial and based on self-assessment, (NAEMSE, 2020)
+peer assessment and judgment. The purpose of accreditation
+is student protection and public accountability. Additionally, Competency – Expected behavior or knowledge to be achieved
+accreditation can provide consistent quality education evaluation within a defined area of practice.
+for a program’s continual improvement and provides for a more
+consistent and uniform graduate competency. Credential – Generic term referring to all forms of professional
+qualification.
+Advanced-level care – Care that has greater potential benefit
+to the patient, but also greater potential risk to the patient if Credentialing – The umbrella term that includes the concepts
+improperly or inappropriately performed. It is more difficult to of accreditation, licensure, registration and professional
+attain and maintain competency in and requires significant certification. Credentialing can establish criteria for fairness,
+background knowledge in basic and applied sciences. This level quality, competence, and/or safety for professional services
+of care includes invasive and pharmacological interventions. provided by authorized individuals, for products or for educational
+endeavors. Credentialing is the process by which an entity,
+Affective domain – Describes learning in terms of feelings/ authorized and qualified to do so, grants formal recognition to
+emotions, attitudes and values. Additionally, the affective domain or records the recognition status of individuals, organizations,
+covers many professional behaviors that are required by an institutions, programs, processes, services or products that meet
+EMS clinician to perform his or her role as a health care provider. predetermined and standardized criteria. (NOCA, 2006)
+(NAEMSE, 2020)
+Credentialing agency – An organization that certifies an
+Asynchronous instruction/learning – An instructional method institution’s or individual’s authority or claim of competence in a
+that allows the learner to use a self-directed and self-paced course of study or completion of objectives.
+learning format to move through the content of the course. In this
+type of instruction, learner-to-learner and learner-to-instructor Curriculum – A particular course of study, often in a specialized
+interactions are independent of time and place. Communications field. For EMS education, it has traditionally included instructional
+and submission of work typically follow a schedule while learners techniques, detailed lesson plans with identified objectives and
+59
+
+Back to Table of Contents >
+numerous forms of learner evaluation. Curriculum is developed In the health care delivery system, an individual who is licensed
+and adopted at the education program based upon National EMS tends to enjoy a certain amount of autonomy in delivering health
+Education Standards and state and local regulatory requirements. care services. Conversely, the licensed individual must satisfy
+The use of local advisory groups can help tailor education to a ongoing requirements that ensure certain minimum levels of
+local community’s needs. expertise. A license is generally considered a privilege, not a right.
+Didactic – The instructional theory, the lesson content. Medical oversight – Physician review and approval of clinical
+(NAEMSE, 2020) content and matters relevant to medical authority.
+Distributive education – A generic term used to describe a National EMS Core Content – The document that defines the
+variety of learning delivery methods that attempt to accommodate domain of out-of-hospital care.
+a geographical separation (at least for some of the time) of the
+instructor and learners. Distributed education includes computer National EMS Education Program Accreditation – The
+and web-based instruction, distance learning through television accreditation process for institutions that sponsor EMS
+or video, web-based seminars, video conferencing and electronic educational programs.
+and traditional educational models.
+National EMS Education Standards – The document that
+Domains – A category of learning. (See Affective domain, defines the entry-level terminal knowledge content (depth
+Cognitive domain, and Psychomotor domain.) (NAEMSE, 2020) and breadth), clinical behavior/judgement, and educational
+infrastructure for each licensure level.
+Entry-level competence – The level of competence expected
+of an individual who is about to begin a career. The minimum National EMS Scope of Practice Model – The document
+competence necessary to practice safely and effectively. that defines the scope of practice of the various levels of EMS
+licensure.
+Health screening – A test or exam performed to find a condition
+before symptoms begin. Screening tests may help find diseases Patient simulation – An alternative to a human patient to help
+or conditions early when they may be easier to treat. (Medline students improve patient assessment and management skills;
+Plus definition) a high-fidelity patient simulator provides realistic simulation that
+responds physiologically to student therapies. These simulators have
+Instructional Guidelines – An emeritus resource document that realistic features such as chests that rise and fall with respirations,
+provided crossover guidance for instructional content within the pupils that react to light, pulses that can be palpated, etc.
+2009 National EMS Education Standards.
+Post-graduate internship and/or experience – Experience gained
+Licensure – The act of granting an entity permission to do after the student has completed and graduated from school.
+something that the entity could not legally do without such
+permission. Licensing is generally viewed by legislative bodies
+as a regulatory effort to protect the public from potential harm.
+60
+
+Back to Table of Contents >
+Practice analysis – A study conducted to determine the Scope of practice – The description of what a licensed individual
+frequency and criticality of the tasks performed in practice. legally can and cannot perform.
+Preceptor – A clinical teacher or instructor who is responsible for Standardized patient – An individual who has been thoroughly
+evaluating and ensuring student progress during hospital and field trained to accurately simulate a real patient with a medical
+experiences. This individual typically has training to be able to condition; a standardized patient plays the role of a patient
+function effectively in the role. for students learning patient assessment, history taking skills,
+communication skills and other skills.
+Primary instructor – A person who possesses the appropriate
+academic and/or allied health credentials and understanding Standard of care – The domain of acceptable practice,
+of the principles and theories of education, and the required as defined by scope of practice, current evidence, industry
+instructional experience necessary to provide quality instruction to consensus and experts. Standard of care can vary depending on
+students. (NAEMSE, 2020) the independent variables of each situation.
+Program director – The individual responsible for an educational Synchronous instruction – Instructional method whereby
+program or programs. learners and instructors interact at the same time, either in
+the classroom or via a computer-driven course. This method
+Psychomotor domain – Describes learning that takes place allows for more immediate learner guidance and feedback using
+through the attainment of skills and bodily or kinesthetic face-to-face, instant text-based messaging or real-time voice
+movements. (NAEMSE, 2020) communications.
+Registration agency – An agency that is traditionally responsible Team leader – Someone who leads the call and provides
+for providing a product used to evaluate a chosen area. States guidance and direction for setting priorities, scene and patient
+may voluntarily adopt this product as part of their licensing assessment and management. The team leader may not actually
+process. The registration agency is also responsible for gathering perform all the interventions but may assign others to do so.
+and housing data to support the validity and reliability of its product.
+Regulation – A rule or a statue that prescribes the management,
+governance or operation parameters for a given group; tends to
+be a function of administrative agencies to which a legislative
+body has delegated authority to promulgate rules and regulations
+to “regulate a given industry or profession.” Most regulations are
+intended to protect public health, safety and welfare.
+61
+
+Back to Table of Contents >
+References
+National Association of EMS Physicians, (Kuehl, A. E., Ed.), NHTSA and Health Resources and Services Administration.
+Prehospital Systems and Medical Oversight, Third Edition. 2002. (2000). Emergency Medical Services Education Agenda for the
+Dubuque, IA: Kendall/Hunt Publishing Company. Future: A Systems Approach. Washington, DC: National Highway
+Traffic Safety Administration. https://www.ems.gov/pdf/education/
+National Association of EMS Educators. (2020). Foundations EMS-Education-for-the-Future-A-Systems-Approach/EMS_
+of Education, An EMS Approach, Third Edition. Burlington, MA: Education_Agenda.pdf
+Jones and Bartlett Learning.
+NHTSA and Health Resources and Services Administration.
+National Organization for Competency Assurance. (2006). (2007). National EMS Scope of Practice Model. Washington, DC:
+NOCA’s Basic Guide to Credentialing Terminology. Washington, National Highway Traffic Safety Administration.
+DC: National Organization for Competency Assurance. https://www.ems.gov/education/EMSScope.pdf
+Ruple, J. A., et al. (2004). State of EMS Education Research NHTSA and Health Resources and Services Administration.
+Project. Prehospital Emergency Care, 9, 203-212. (2019). National EMS Scope of Practice Model. Washington,
+DC, US Department of Transportation. https://www.ems.gov/pdf/
+Ruple, J. A., et al. (2006). Commonalities of the EMS Education National_EMS_Scope_of_Practice_Model_2019.pdf
+Workforce (2004) in the United States. Prehospital Emergency
+Care, 10, 229-238. NHTSA and Health Resources and Services Administration.
+(2021). National EMS Scope of Practice Model. Washington,
+NHTSA. (1996). Emergency Medical Services, Agenda for DC, US Department of Transportation. https://www.ems.gov/
+the Future. Washington, DC: National Highway Traffic Safety pdf/National_EMS_Scope_of_Practice_Model_2019_Change_
+Administration. http://www.nhtsa.dot.gov/people/injury/ems/ Notices_1_and%20_2_August_2021.pdf
+agenda/emsman.html
+NHTSA. (2019). Emergency Medical Services Agenda 2050.
+Washington, DC: National Highway Traffic Safety Administration.
+https://www.ems.gov/pdf/EMS-Agenda-2050.pdf
+NHTSA. (2005). Emergency Medical Services Core Content.
+Washington, DC: National Highway Traffic Safety Administration.
+http://www.nhtsa.dot.gov/people/injury/ems/EMSCoreContent/
+images/EMSCoreContent.pdf
+62
+
+Back to Table of Contents >
+Acknowledgements and Stakeholder Input
+Education Standards Revision Team Leadership: Federal Partners:
+National Highway Traffic Safety Administration (NHTSA)
+Director: Bryan Ericson, MEd, RN, NRP, Hurst, TX
+Co-Chair: Paul Rosenberger, BS, MPA, EdD, NRP, Dallas, TX Office of EMS
+Co-Chair: Art Hsieh, MA, NRP, Santa Rosa, CA
+Coordinator: Kenneth Navarro, PhD(c), Dallas, TX David Bryson, EMT, EMS Specialist, Washington, DC
+Medical Director: Katherine Remick, MD, FAAP, FACEP, Kate Elkins, MPH, CPH, NRP, EMS Specialist, Washington, DC
+FAEMS, Austin, TX Jon Krohmer, MD, FACEP, FAEMS, OEMS Director, Washington, DC
+Medical Director: Joshua Stilley, MD, FACEP, FAAEM, FAEMS,
+Columbia, MO Health Resources and Services Administration (HRSA),
+Maternal and Child Health Bureau’s EMS for Children
+Education Standards Revision Team Members*:
+(EMSC) Program
+Deborah Akers, NRP, Glen Allen, VA
+Steve Cole, MEd, NRP, Boise, ID (Paramedic Level Lead) Sara Kinsman, MD, PhD, MCHB DCAFH Director, Washington, DC
+Lindi Holt, PhD, NRP, NCEE, Indianapolis, IN (AEMT Level Lead) Theresa Morrison-Quinata, DCAFH EMSC Branch Chief,
+Mark Malonzo, EdD(c), NRP, Los Angeles, CA Washington, DC
+Gina Riggs, MEd, NRP, Poteau, OK Diane Pilkey, RN, MPH, DCAFH Senior Nurse Consultant,
+Jose Salazar, BA, MPH, NRP, Leesburg, VA Washington, DC
+Karla Short, BBA, MEd, EdD, Columbus OH (EMR/EMT
+RedFlash Group:
+Level Lead)
+Bill Young, EdD, NRP, Richmond, KY
+Tricia Duva, BA, Encinitas, CA
+Michael Gerber, MPH, NRP, Washington, DC
+NAEMSE Leadership:
+Keith Griffiths, BA, Encinitas, CA
+Linda Abrahamson, MA, RN, EMTP, NCEE, Oak Lawn, IL Wendy Martin, BS, MPC, Encinitas, CA
+Stephen Perdziola, BS, Pittsburgh, PA
+Administrative Support:
+Jamie Royster, BS, Dallas, TX
+* The Revision Team was chosen by NAEMSE in consultation with NHTSA and HRSA, and
+comprised educators whose backgrounds and experiences represented a diverse range of
+communities, educational institutions and EMS systems.
+63
+
+Back to Table of Contents >
+Stakeholder Organizations Who Provided Input
+Academy of International Mobile Health Integration National Association of State EMS Officials
+American Academy of Pediatrics – NRP Steering Committee National EMS Management Association
+American Ambulance Association National Fire Protection Agency
+American College of Emergency Physicians National Registry of EMTs
+American College of Surgeons Committee on Trauma National Volunteer Fire Council
+Association of Air Medical Services New Hampshire Department of Safety, Division of Fire Standards and
+Training and EMS
+Association of Critical Care Transport
+New Jersey State EMS Council, 17th District
+Commission on Accreditation of Ambulance Services
+North Carolina Office of EMS
+Commission on Accreditation of Medical Transport Systems
+US Army
+Committee on Accreditation of Educational Programs for the EMS
+Professions/Commission on Accreditation of Allied Health Education US Air Force
+Programs
+Project Meetings
+Congress of Mobile Medical Professionals
+EMS for Children (Health Resources and Services Administration, • First Development Meeting – May 2-3, 2019, Pittsburgh, PA
+Maternal Child and Health Bureau)
+• Association Liaison/Stakeholder Call – July 15, 2019
+EMS for Children Innovation & Improvement Center • Second Development Meeting – October 3-4, 2019,
+Washington, DC
+Emergency Nurses Association
+• Instructional Guideline Revision Meeting –
+Georgia Department of Public Health January 30-February 1, 2020, Hurst, TX
+• Association Liaison/Stakeholder Call – August 11, 2020
+International Association of EMS Chiefs
+• Revision Meeting (virtual) – October 9, 2020
+International Association of Fire Chiefs
+• Third Development Meeting (virtual) – January 28, 2021
+International Association of Fire Fighters
+Public Comment Periods
+International Association of Flight & Critical Care Paramedics
+State of Minnesota EMS Regulatory Board • August 16-September 20, 2019
+• February 17-March 17, 2020
+National Association of EMS Physicians
+• November 13-December 14, 2020
+National Association of EMTs
+64
+
+Back to Table of Contents >
+Appendix A: Resources for EMS
+National Organizations:
+American Academy of Emergency Medicine (AAEM): https://www.aaem.org/
+American Academy of Pediatrics (AAP): https://www.aap.org/en-us/Pages/Default.aspx
+American Academy of Orthopedic Surgeons (AAOS): https://www.aaos.org/
+American Ambulance Association (AAA): https://ambulance.org
+American College of Emergency Physicians (ACEP): https://www.acep.org/
+American College of Surgeons Committee on Trauma (ACS COT): https://www.facs.org/Quality-Programs/Trauma
+American Medical Association (AMA): https://www.ama-assn.org/
+American Public Health Association (APHA): https://www.apha.org/
+American Trauma Society (ATS): https://www.amtrauma.org/
+Association of Air Medical Services (AAMS): https://aams.org/
+Association of State and Territorial Health Officials (ASTHO): https://www.astho.org/
+Center for Disease Control: https//www.cdc.gov/
+Commission on Accreditation of Allied Health Education Programs (CAAHEP): https://www.caahep.org/
+Commission on Accreditation of Ambulance Services (CAAS): https://www.caas.org/
+Commission of Accreditation of Medical Transport Systems (CAMTS): https://www.camts.org/International
+65
+
+Back to Table of Contents >
+National Organizations:
+Commission of Accreditation of Medical Transport Systems (CAMTS): https://www.camts.org/International
+Committee on Accreditation of Educational Programs for the Emergency Medical Services Professions (CoAEMSP):
+https://coaemsp.org/
+Emergency Nurses Association (ENA): https://www.ena.org/
+International Academies of Emergency Dispatch (IAED): https://www.emergencydispatch.org/home
+International Association of Emergency Managers (IAEM): https://www.iaem.org/
+International Association of EMS Chiefs (IAEMSC): https://www.iaemsc.org/
+International Association of EMTs and Paramedics (IAEP): https://www.iaep.org/
+International Association of Fire Chiefs (IAFC): https://www.iafc.org/
+International Association of Firefighters: https://www.iaff.org/
+International Association of Flight & Critical Care Paramedics (IAFCCP): https://www.iafccp.org/
+National Association of County & City Health Officials (NACCHO): https://www.naccho.org/about
+National Association of EMS Educators (NAEMSE): https://naemse.org/
+National Association of EMS Officials (NASEMSO): https://nasemso.org/
+National Association of EMS Physicians (NAEMSP): https://naemsp.org/
+National Association of Emergency Medical Technicians (NAEMT): https://naemt.org/
+National EMS Advisory Council: https://www.ems.gov/memsac.html
+National EMS Management Association (NEMSMA): https://www.nemsma.org/
+66
+
+Back to Table of Contents >
+National Organizations:
+National EMS Quality Alliance (NEMSQA): https://www.nemsqa.org/
+National Fire Protection Association (NFPA): https://www.nfpa.org/
+National Organization of State Offices of Rural Health (NOSORH): https://nosorh.org/
+National Registry of Emergency Medical Technicians (NREMT): https://www.nremt.org
+National Volunteer Fire Council (NVFC): https://www.nvfc.org/about/
+Safe States Alliance: https://www.safestates.org/
+Society for Academic Emergency Medicine: https://www.saem.org/home
+Federal Agencies:
+Federal Interagency Committee on EMS (FICEMS): https://www.ems.gov/ficems.html
+Department of Transportation: https://www.transportation.gov/
+Federal Highway Administration (FHWA): https://ops.fhwa.dot.gov/eto_tim_pse/preparedness/tim/index.htm
+National Highway Traffic Safety Administration (NHTSA): https://www.ems.gov/
+Department of Homeland Security (DHS): https://www.dhs.gov/
+U.S. Fire Administration (USFA): https://www.usfa.fema.gov/
+Department of Health and Human Services (DHHS): https://www.hhs.gov/
+Agency for Healthcare Research and Quality (AHRQ): https://www.ahrq.gov/
+Centers for Disease Control and Prevention (CDC): https://www.cdc.gov/
+National Institute for Occupational Safety and Health (NIOSH): https://www.cdc.gov/niosh/index.htm
+67
+
+Back to Table of Contents >
+Federal Agencies:
+Centers for Medicare & Medicaid Services (CMS): https://www.cms.gov/
+Health Resources & Services Administration (HRSA): https://www.hrsa.gov/
+Indian Health Service (IHS): https://www.ihs.gov/
+National Institutes of Health (NIH): https://www.nih.gov/
+Office of the Assistant Secretary for Preparedness and Response (ASPR): https://www.phe.gov/about/aspr/Pages/default.aspx
+Substance Abuse and Mental Health Services Administration (SAMHSA): https://www.samhsa.gov/
+Federal Communications Commission (FCC): https://www.fcc.gov/
+Department of Defense (DoD): https://dod.defense.gov/
+Office of the Assistant Secretary of Defense for Health Affairs: https://www.health.mil/About-MHS/OASDHA
+Department of the Interior (DOI): https://www.doi.gov/
+National Park Service (NPS): https://www.nps.gov/index.htm
+Department of Agriculture (USDA): https://www.usda.gov/
+U.S. Forest Service (USFS): https://www.fs.usda.gov/
+Department of Labor (DOL): https://www.dol.gov/
+68
+
+Back to Table of Contents >
+Other Sources:
+Occupational Safety and Health Administration (OSHA): https://www.osha.gov/
+National Highway Traffic Safety Administration (NHTSA): www.EMS.gov
+American Heart Association ECC: https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines
+EMSC Innovation and Improvement Center (EIIC): https://emscimprovement.center/
+National EMS Advisory Council (NEMSAC): https://www.ems.gov/nemsac.html
+National EMS Information System (NEMSIS): https://nemsis.org/
+Prehospital Care Research Forum: https://www.cpc.mednet.ucla.edu/pcrf
+Prehospital Guidelines Consortium: http://prehospitalguidelines.org/
+69
+
+December 9, 2021
+
