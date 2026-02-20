@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>NREMT Advanced Exam Prep</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{overflow:visible}
+body{background:#0a0e1a;color:#fff;font-family:-apple-system,SF Pro,Inter,system-ui,sans-serif;
+  touch-action:pan-y;min-height:100dvh;
+  background-image:radial-gradient(ellipse at 20% 50%,rgba(74,158,255,.15) 0%,transparent 50%),
+    radial-gradient(ellipse at 80% 20%,rgba(217,83,79,.12) 0%,transparent 50%),
+    radial-gradient(ellipse at 50% 80%,rgba(52,199,89,.1) 0%,transparent 50%);
+  background-attachment:fixed;padding:16px;padding-bottom:env(safe-area-inset-bottom,16px)}
+.glass{background:rgba(20,25,41,.35);backdrop-filter:blur(24px);-webkit-backdrop-filter:blur(24px);border:1px solid rgba(255,255,255,.12);box-shadow:0 4px 24px rgba(0,0,0,.3);border-radius:16px;padding:20px}
+.screen{display:none;max-width:700px;margin:0 auto}
+.screen.active{display:block}
+h1{font-size:1.8rem;font-weight:700;letter-spacing:-.02em}
+h2{font-size:1.3rem;font-weight:600;margin-bottom:12px}
+h3{font-size:1.1rem;font-weight:600;margin-bottom:8px}
+.subtitle{color:rgba(255,255,255,.6);font-size:.95rem;margin-top:4px}
+.stats-row{display:flex;gap:10px;margin:20px 0;flex-wrap:wrap}
+.stat-card{flex:1;min-width:90px;text-align:center;padding:14px 8px}
+.stat-card .num{font-size:1.6rem;font-weight:700;color:#4a9eff}
+.stat-card .lbl{font-size:.75rem;color:rgba(255,255,255,.5);margin-top:2px}
+.btn{display:inline-flex;align-items:center;justify-content:center;padding:14px 28px;border-radius:12px;border:none;font-size:1rem;font-weight:600;cursor:pointer;transition:all .2s;-webkit-tap-highlight-color:transparent;min-height:48px}
+.btn-primary{background:linear-gradient(135deg,#4a9eff,#2d7be5);color:#fff;width:100%}
+.btn-primary:active{transform:scale(.97);filter:brightness(.9)}
+.btn-secondary{background:rgba(255,255,255,.1);color:#fff;border:1px solid rgba(255,255,255,.15)}
+.btn-secondary:active{background:rgba(255,255,255,.18)}
+.btn-sm{padding:10px 16px;font-size:.85rem;min-height:40px}
+.domain-list{display:flex;flex-direction:column;gap:8px;margin:16px 0}
+.domain-item{padding:14px 16px;border-radius:12px;cursor:pointer;display:flex;justify-content:space-between;align-items:center;transition:all .15s;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.08)}
+.domain-item:active,.domain-item.sel{background:rgba(74,158,255,.18);border-color:rgba(74,158,255,.4)}
+.domain-item .ct{color:rgba(255,255,255,.4);font-size:.85rem}
+/* Progress bar */
+.progress-wrap{height:6px;background:rgba(255,255,255,.1);border-radius:3px;margin-bottom:16px;overflow:hidden}
+.progress-fill{height:100%;background:linear-gradient(90deg,#4a9eff,#34c759);border-radius:3px;transition:width .3s}
+/* Scenario panel */
+.scenario-panel{margin-bottom:16px}
+.scenario-tabs{display:flex;gap:6px;margin-bottom:10px}
+.scenario-tab{padding:8px 14px;border-radius:8px;font-size:.8rem;font-weight:600;cursor:pointer;background:rgba(255,255,255,.08);color:rgba(255,255,255,.4);border:1px solid transparent;transition:all .15s}
+.scenario-tab.active{background:rgba(74,158,255,.2);color:#4a9eff;border-color:rgba(74,158,255,.3)}
+.scenario-tab.locked{opacity:.35;cursor:default}
+.scenario-text{font-size:.92rem;line-height:1.5;color:rgba(255,255,255,.8);min-height:40px}
+/* Question area */
+.q-text{font-size:1.05rem;line-height:1.5;margin-bottom:16px;font-weight:500}
+.q-hint{font-size:.85rem;color:#4a9eff;margin-bottom:12px}
+/* MC / MR options */
+.opt-list{display:flex;flex-direction:column;gap:8px}
+.opt{padding:14px 16px;border-radius:12px;cursor:pointer;display:flex;align-items:center;gap:12px;transition:all .15s;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.08);font-size:.95rem;min-height:48px;-webkit-tap-highlight-color:transparent}
+.opt:active{background:rgba(255,255,255,.12)}
+.opt.selected{background:rgba(74,158,255,.18);border-color:rgba(74,158,255,.4)}
+.opt.correct-show{background:rgba(52,199,89,.2);border-color:rgba(52,199,89,.5)}
+.opt.wrong-show{background:rgba(217,83,79,.2);border-color:rgba(217,83,79,.5)}
+.opt-marker{width:28px;height:28px;border-radius:50%;border:2px solid rgba(255,255,255,.25);display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:.8rem;font-weight:600}
+.opt.selected .opt-marker{border-color:#4a9eff;background:rgba(74,158,255,.3)}
+.opt-marker.check{border-radius:6px}
+/* Order items */
+.order-list{display:flex;flex-direction:column;gap:8px}
+.order-item{display:flex;align-items:center;gap:10px;padding:12px 14px;border-radius:12px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.08)}
+.order-item .arrows{display:flex;flex-direction:column;gap:2px}
+.order-item .arrows button{width:36px;height:30px;border:none;background:rgba(255,255,255,.1);color:#fff;border-radius:6px;font-size:1rem;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.order-item .arrows button:active{background:rgba(74,158,255,.3)}
+.order-item .order-text{flex:1;font-size:.95rem}
+.order-item.correct-show{background:rgba(52,199,89,.15);border-color:rgba(52,199,89,.4)}
+.order-item.wrong-show{background:rgba(217,83,79,.15);border-color:rgba(217,83,79,.4)}
+/* Categorize */
+.cat-items{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
+.cat-chip{padding:10px 16px;border-radius:10px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.1);cursor:pointer;font-size:.9rem;transition:all .15s}
+.cat-chip:active,.cat-chip.picked{background:rgba(74,158,255,.25);border-color:rgba(74,158,255,.4)}
+.cat-chip.placed{opacity:.4;cursor:default}
+.cat-buckets{display:flex;gap:10px;flex-wrap:wrap}
+.cat-bucket{flex:1;min-width:140px;min-height:80px;border-radius:12px;padding:12px;background:rgba(255,255,255,.04);border:2px dashed rgba(255,255,255,.15);transition:all .15s;cursor:pointer}
+.cat-bucket.highlight{border-color:rgba(74,158,255,.5);background:rgba(74,158,255,.08)}
+.cat-bucket-title{font-size:.8rem;font-weight:600;color:rgba(255,255,255,.5);margin-bottom:8px;text-transform:uppercase;letter-spacing:.04em}
+.cat-bucket-items{display:flex;flex-wrap:wrap;gap:6px}
+.cat-bucket-items .placed-chip{padding:6px 12px;border-radius:8px;background:rgba(74,158,255,.2);font-size:.85rem;cursor:pointer}
+/* Table */
+.q-table{width:100%;border-collapse:separate;border-spacing:0;overflow:hidden;border-radius:12px;border:1px solid rgba(255,255,255,.1)}
+.q-table th,.q-table td{padding:12px;text-align:center;border-bottom:1px solid rgba(255,255,255,.08)}
+.q-table th{background:rgba(255,255,255,.08);font-size:.8rem;font-weight:600;color:rgba(255,255,255,.6)}
+.q-table td{font-size:.9rem}
+.q-table td:first-child{text-align:left;font-weight:500}
+.q-table .cell-btn{width:36px;height:36px;border-radius:8px;border:2px solid rgba(255,255,255,.2);background:transparent;color:#fff;cursor:pointer;font-size:1rem;display:inline-flex;align-items:center;justify-content:center;transition:all .15s}
+.cell-btn.on{background:rgba(74,158,255,.3);border-color:#4a9eff}
+.cell-btn.correct-show{background:rgba(52,199,89,.3);border-color:#34c759}
+.cell-btn.wrong-show{background:rgba(217,83,79,.3);border-color:#d9534f}
+/* Graphical */
+.q-image{width:100%;max-height:200px;object-fit:contain;border-radius:12px;margin-bottom:14px;background:rgba(255,255,255,.05)}
+.q-image-placeholder{width:100%;padding:40px;text-align:center;border-radius:12px;margin-bottom:14px;background:rgba(255,255,255,.05);border:1px dashed rgba(255,255,255,.15);color:rgba(255,255,255,.4);font-size:.9rem}
+/* Explanation */
+.explanation{margin-top:16px;padding:16px;border-radius:12px;background:rgba(52,199,89,.1);border:1px solid rgba(52,199,89,.25)}
+.explanation.wrong{background:rgba(217,83,79,.1);border-color:rgba(217,83,79,.25)}
+.explanation h4{font-size:.9rem;margin-bottom:6px}
+.explanation p{font-size:.9rem;line-height:1.5;color:rgba(255,255,255,.8)}
+.pearl{margin-top:10px;padding:12px;border-radius:10px;background:rgba(74,158,255,.1);border:1px solid rgba(74,158,255,.2);font-size:.85rem;color:rgba(255,255,255,.75)}
+.pearl strong{color:#4a9eff}
+/* Results */
+.score-circle{width:140px;height:140px;border-radius:50%;margin:20px auto;display:flex;flex-direction:column;align-items:center;justify-content:center;border:4px solid #4a9eff;background:rgba(74,158,255,.1)}
+.score-circle .pct{font-size:2.2rem;font-weight:700}
+.score-circle .tier{font-size:.8rem;color:rgba(255,255,255,.6)}
+.domain-breakdown{margin:20px 0}
+.domain-bar{margin-bottom:10px}
+.domain-bar-label{display:flex;justify-content:space-between;font-size:.85rem;margin-bottom:4px}
+.domain-bar-track{height:8px;background:rgba(255,255,255,.1);border-radius:4px;overflow:hidden}
+.domain-bar-fill{height:100%;border-radius:4px;transition:width .5s}
+.review-item{margin-bottom:12px;padding:14px;border-radius:12px;font-size:.9rem}
+.review-item.rev-correct{background:rgba(52,199,89,.1);border:1px solid rgba(52,199,89,.2)}
+.review-item.rev-wrong{background:rgba(217,83,79,.1);border:1px solid rgba(217,83,79,.2)}
+.review-q{font-weight:600;margin-bottom:4px}
+.review-a{color:rgba(255,255,255,.6);font-size:.85rem}
+.mt{margin-top:16px}
+.mb{margin-bottom:16px}
+.gap{height:12px}
+</style>
+</head>
+<body>
+
+<!-- HOME SCREEN -->
+<div id="home" class="screen active">
+  <div class="glass" style="text-align:center;padding:30px 20px">
+    <div style="font-size:2.5rem;margin-bottom:8px">🚑</div>
+    <h1>NREMT Advanced Exam Prep</h1>
+    <p class="subtitle">Master all question types. Pass with confidence.</p>
+  </div>
+  <div class="stats-row">
+    <div class="glass stat-card"><div class="num">10</div><div class="lbl">Questions</div></div>
+    <div class="glass stat-card"><div class="num">5</div><div class="lbl">Domains</div></div>
+    <div class="glass stat-card"><div class="num">6</div><div class="lbl">Q Types</div></div>
+  </div>
+  <div class="glass">
+    <h3>Select Domain</h3>
+    <div class="domain-list" id="domainList"></div>
+  </div>
+  <div class="gap"></div>
+  <button class="btn btn-primary" onclick="startQuiz()">Start Practice</button>
+</div>
+
+<!-- QUIZ SCREEN -->
+<div id="quiz" class="screen">
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px">
+    <button class="btn btn-secondary btn-sm" onclick="goHome()">✕ Exit</button>
+    <span id="qCounter" style="font-size:.85rem;color:rgba(255,255,255,.5)"></span>
+  </div>
+  <div class="progress-wrap"><div class="progress-fill" id="progFill"></div></div>
+  <div id="scenarioPanel" class="glass scenario-panel" style="display:none">
+    <div class="scenario-tabs" id="scenarioTabs"></div>
+    <div class="scenario-text" id="scenarioText"></div>
+  </div>
+  <div class="glass" id="questionCard">
+    <div id="qImageArea"></div>
+    <div class="q-text" id="qText"></div>
+    <div class="q-hint" id="qHint" style="display:none"></div>
+    <div id="qBody"></div>
+    <div id="qExplanation" style="display:none"></div>
+  </div>
+  <div class="gap"></div>
+  <button class="btn btn-primary" id="submitBtn" onclick="submitAnswer()">Submit</button>
+  <button class="btn btn-primary mt" id="nextBtn" onclick="nextQuestion()" style="display:none">Next →</button>
+</div>
+
+<!-- RESULTS SCREEN -->
+<div id="results" class="screen">
+  <div class="glass" style="text-align:center">
+    <h2>Results</h2>
+    <div class="score-circle"><div class="pct" id="resPct"></div><div class="tier" id="resTier"></div></div>
+  </div>
+  <div class="gap"></div>
+  <div class="glass">
+    <h3>Domain Breakdown</h3>
+    <div id="domainBreakdown" class="domain-breakdown"></div>
+  </div>
+  <div class="gap"></div>
+  <div class="glass">
+    <h3>Question Review</h3>
+    <div id="reviewList"></div>
+  </div>
+  <div class="gap"></div>
+  <button class="btn btn-primary" onclick="goHome()">Back to Home</button>
+</div>
+
+<script>
+const QUESTIONS=[
+// Q1-3: MVC Scenario
+{id:1,scenarioId:"s1",type:"mc",domain:"EMS Operations",
+ scenario:{enRoute:"You are dispatched to a two-vehicle MVC on a highway. Dispatch reports multiple patients and possible entrapment. Police and fire are en route.",scene:"You arrive to find a sedan with significant front-end damage and a pickup truck off the roadway. Bystanders are waving you over. You see one patient still in the sedan, conscious but pinned by the dashboard. A second patient from the pickup is sitting on the guardrail holding a bloodied cloth to their head.",postScene:""},
+ question:"While en route, what is the MOST important information to obtain from dispatch?",
+ options:["Number of patients and mechanism of injury","Names and ages of all patients","Insurance information for the vehicles","Which hospital to transport to"],
+ correct:0,
+ explanation:"Knowing the number of patients and MOI helps you prepare resources, request mutual aid, and anticipate injury patterns before arrival.",
+ pearl:"MOI helps predict injury patterns: high-speed frontal MVC → suspect cervical spine, chest, and abdominal injuries."},
+
+{id:2,scenarioId:"s1",type:"mr",domain:"EMS Operations",
+ scenario:{enRoute:"",scene:"You arrive to find a sedan with significant front-end damage and a pickup truck off the roadway. Bystanders are waving you over. One patient is pinned in the sedan, another sits on the guardrail with a head laceration.",postScene:""},
+ question:"Upon arrival at the scene, which TWO actions should you perform FIRST?",
+ selectCount:2,
+ options:["Ensure scene safety and assess hazards","Begin treating the patient in the sedan immediately","Determine the number of patients and call for additional resources","Direct bystanders to move the sedan"],
+ correctMulti:[0,2],
+ explanation:"Scene safety is always the first priority. Then determine number of patients so you can call for additional resources before beginning patient contact.",
+ pearl:"Scene size-up: Safety → MOI → Number of patients → Need for additional resources → C-spine consideration."},
+
+{id:3,scenarioId:"s1",type:"order",domain:"Patient Assessment",
+ scenario:{enRoute:"",scene:"Scene is safe. You have two patients. Additional EMS is 8 minutes out. You approach the patient pinned in the sedan who is responsive but confused.",postScene:""},
+ question:"Place the following primary assessment steps in the correct order:",
+ items:["Assess circulation (pulse, bleeding, skin)","Form a general impression","Assess airway with C-spine protection","Assess breathing (rate, quality, effort)","Determine priority/transport decision"],
+ correctOrder:[1,2,3,0,4],
+ explanation:"Primary assessment follows: General Impression → Airway (with C-spine) → Breathing → Circulation → Priority decision. This systematic approach ensures life threats are identified in order.",
+ pearl:"Remember: General impression → ABCs → Priority. Never skip the general impression — it takes 2 seconds and guides your urgency."},
+
+// Q4: Standalone cardiac MC
+{id:4,type:"mc",domain:"Cardiology",
+ question:"A 62-year-old male presents with crushing substernal chest pain radiating to his left arm, diaphoresis, and nausea. His BP is 138/88, pulse 96, SpO2 94% on room air. He has prescribed nitroglycerin. After assisting with his nitroglycerin, what should you do NEXT?",
+ options:["Administer 324 mg aspirin (chewed)","Apply the AED immediately","Begin CPR","Administer a second nitroglycerin immediately"],
+ correct:0,
+ explanation:"Aspirin (324 mg chewed) should be administered to any patient with suspected acute coronary syndrome, provided no allergy or contraindication. It inhibits platelet aggregation and reduces mortality.",
+ pearl:"ASA for ACS: 324 mg (four 81 mg baby aspirin) chewed — not swallowed whole. Chewing speeds absorption by ~12 minutes."},
+
+// Q5: Signs of shock MR
+{id:5,type:"mr",domain:"Medical Emergencies",
+ question:"Which THREE of the following are signs of compensated shock in an adult?",
+ selectCount:3,
+ options:["Tachycardia","Hypertension","Pale, cool, diaphoretic skin","Altered mental status","Increased urine output"],
+ correctMulti:[0,2,3],
+ explanation:"Compensated shock presents with tachycardia (body tries to increase CO), pale/cool/diaphoretic skin (vasoconstriction and sympathetic response), and altered mental status (decreased cerebral perfusion). BP is maintained in compensated shock; hypertension is not a sign.",
+ pearl:"In compensated shock, BP may still be normal. Tachycardia is often the earliest sign — don't wait for hypotension to suspect shock."},
+
+// Q6: Anaphylaxis ordering
+{id:6,type:"order",domain:"Medical Emergencies",
+ question:"Place the following interventions for a patient experiencing anaphylaxis in the correct order:",
+ items:["Assist with or administer epinephrine auto-injector","Manage the airway and provide high-flow O2","Remove the patient from the allergen/trigger","Initiate transport; reassess every 2 minutes"],
+ correctOrder:[2,1,0,3],
+ explanation:"First remove from trigger, then manage airway/breathing with high-flow O2, administer epinephrine (the definitive field treatment), then transport with ongoing reassessment.",
+ pearl:"Epinephrine is the ONLY medication that addresses all pathophysiology of anaphylaxis: bronchospasm, vasodilation, and increased permeability."},
+
+// Q7: Categorize vitals
+{id:7,type:"categorize",domain:"Patient Assessment",
+ question:"For a healthy adult at rest, categorize each vital sign as Normal or Abnormal:",
+ items:["HR 78 bpm","RR 24 breaths/min","BP 118/76 mmHg","SpO2 88%","Temp 98.6°F"],
+ categories:["Normal","Abnormal"],
+ correctCategories:[0,1,0,1,0],
+ explanation:"HR 78 (normal 60-100), BP 118/76 (normal), and Temp 98.6°F (normal) are all within range. RR 24 is above normal adult range (12-20) and SpO2 88% is hypoxic (normal ≥94%).",
+ pearl:"Normal adult vitals: HR 60-100, RR 12-20, SBP 90-140, SpO2 ≥94%, Temp 97.8-99.1°F."},
+
+// Q8: Table — medications
+{id:8,type:"table",domain:"Pharmacology",
+ question:"A 45-year-old female with a known history of asthma is experiencing an acute asthma attack with severe wheezing and SpO2 of 90%. For each medication, mark whether it is Indicated or Contraindicated for this patient:",
+ rows:["Prescribed MDI albuterol","Oral glucose","Epinephrine auto-injector","Aspirin"],
+ columns:["Indicated","Contraindicated"],
+ correctCells:[[1,0],[0,1],[0,1],[0,1]],
+ explanation:"Albuterol (a bronchodilator) is the appropriate AEMT/Paramedic-level medication for acute bronchospasm. Oral glucose is for hypoglycemia, epinephrine auto-injector is for anaphylaxis (not isolated asthma at EMT level), and aspirin is for ACS — none are indicated here.",
+ pearl:"EMTs can assist with patient-prescribed MDIs (albuterol). Ensure: right patient, right medication, not expired, and medical direction if required by protocol."},
+
+// Q9: Graphical (ECG-like with text description)
+{id:9,type:"graphical",domain:"Cardiology",
+ question:"You are monitoring a patient who suddenly becomes unresponsive and pulseless. The cardiac monitor shows the rhythm below. What is this rhythm?",
+ imageText:"📊 Monitor Display: Rapid, chaotic, irregularly irregular waveform with no discernible P waves, QRS complexes, or T waves. The baseline is completely disorganized with varying amplitude and frequency.",
+ options:["Normal Sinus Rhythm","Ventricular Fibrillation","Atrial Fibrillation","Asystole"],
+ correct:1,
+ explanation:"Ventricular fibrillation (V-Fib) appears as a chaotic, disorganized rhythm with no identifiable waves. It is a shockable rhythm — immediate defibrillation and high-quality CPR are the priorities.",
+ pearl:"V-Fib and pulseless V-Tach are the two shockable rhythms. For every minute without defibrillation, survival decreases by 7-10%."},
+
+// Q10: Categorize stroke vs hypoglycemia
+{id:10,type:"categorize",domain:"Medical Emergencies",
+ question:"Categorize each finding as more characteristic of Stroke or Hypoglycemia:",
+ items:["Unilateral facial droop","Rapid onset of diaphoresis","Slurred speech with hemiparesis","Combative behavior that improves with oral glucose","Sudden severe headache"],
+ categories:["Stroke","Hypoglycemia"],
+ correctCategories:[0,1,0,1,0],
+ explanation:"Unilateral facial droop, slurred speech with hemiparesis, and sudden severe headache are classic stroke findings. Diaphoresis with rapid onset and combativeness that improves with glucose are classic hypoglycemia presentations.",
+ pearl:"Always check blood glucose on altered mental status patients — hypoglycemia can perfectly mimic stroke. It's fast, cheap, and changes management completely."}
+];
+
+const DOMAINS=["All","EMS Operations","Patient Assessment","Cardiology","Medical Emergencies","Pharmacology"];
+
+let selectedDomain="All";
+let quizQs=[];
+let qIdx=0;
+let submitted=false;
+let answers=[];
+let userState={};
+
+// Build domain list
+function buildDomains(){
+  const el=document.getElementById('domainList');
+  el.innerHTML='';
+  DOMAINS.forEach(d=>{
+    const cnt=d==="All"?QUESTIONS.length:QUESTIONS.filter(q=>q.domain===d).length;
+    const div=document.createElement('div');
+    div.className='domain-item'+(selectedDomain===d?' sel':'');
+    div.innerHTML=`<span>${d}</span><span class="ct">${cnt}</span>`;
+    div.onclick=()=>{selectedDomain=d;buildDomains()};
+    el.appendChild(div);
+  });
+}
+
+function show(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));document.getElementById(id).classList.add('active');window.scrollTo(0,0)}
+
+function goHome(){show('home');buildDomains()}
+
+function startQuiz(){
+  quizQs=selectedDomain==="All"?[...QUESTIONS]:QUESTIONS.filter(q=>q.domain===selectedDomain);
+  if(!quizQs.length)return;
+  qIdx=0;answers=[];
+  show('quiz');
+  renderQuestion();
+}
+
+function renderQuestion(){
+  submitted=false;
+  userState={};
+  const q=quizQs[qIdx];
+  document.getElementById('qCounter').textContent=`${qIdx+1} / ${quizQs.length}`;
+  document.getElementById('progFill').style.width=((qIdx/quizQs.length)*100)+'%';
+  document.getElementById('submitBtn').style.display='';
+  document.getElementById('nextBtn').style.display='none';
+  document.getElementById('qExplanation').style.display='none';
+  document.getElementById('qText').textContent=q.question;
+  document.getElementById('qHint').style.display='none';
+
+  // Scenario
+  const sp=document.getElementById('scenarioPanel');
+  if(q.scenarioId){
+    sp.style.display='';
+    const scenarioQs=quizQs.filter(x=>x.scenarioId===q.scenarioId);
+    const scenarioIdx=scenarioQs.indexOf(q);
+    const phases=['enRoute','scene','postScene'];
+    const phaseLabels=['🚑 En Route','📍 On Scene','🏥 Post-Scene'];
+    const tabs=document.getElementById('scenarioTabs');
+    tabs.innerHTML='';
+    // Collect all scenario text from scenario questions
+    const allScenario={};
+    scenarioQs.forEach(sq=>{if(sq.scenario)Object.assign(allScenario,sq.scenario)});
+    let shownPhase=null;
+    phases.forEach((p,i)=>{
+      if(!allScenario[p])return;
+      const unlocked=i<=scenarioIdx;
+      const tab=document.createElement('div');
+      tab.className='scenario-tab'+(unlocked?'':' locked');
+      if(i===scenarioIdx){tab.classList.add('active');shownPhase=p}
+      tab.textContent=phaseLabels[i];
+      if(unlocked)tab.onclick=()=>{
+        tabs.querySelectorAll('.scenario-tab').forEach(t=>t.classList.remove('active'));
+        tab.classList.add('active');
+        document.getElementById('scenarioText').textContent=allScenario[p];
+      };
+      tabs.appendChild(tab);
+    });
+    document.getElementById('scenarioText').textContent=allScenario[shownPhase]||'';
+  } else {
+    sp.style.display='none';
+  }
+
+  // Image area
+  const imgArea=document.getElementById('qImageArea');
+  imgArea.innerHTML='';
+  if(q.type==='graphical'){
+    if(q.image){
+      imgArea.innerHTML=`<img class="q-image" src="${q.image}" alt="Clinical image">`;
+    } else if(q.imageText){
+      imgArea.innerHTML=`<div class="q-image-placeholder">${q.imageText}</div>`;
+    }
+  }
+
+  // Hint
+  if(q.type==='mr'&&q.selectCount){
+    document.getElementById('qHint').style.display='';
+    document.getElementById('qHint').textContent=`Select ${q.selectCount} answers`;
+  }
+
+  // Body
+  const body=document.getElementById('qBody');
+  body.innerHTML='';
+
+  if(q.type==='mc'||q.type==='graphical'){
+    userState.selected=-1;
+    const ol=document.createElement('div');ol.className='opt-list';
+    q.options.forEach((o,i)=>{
+      const d=document.createElement('div');d.className='opt';d.dataset.i=i;
+      d.innerHTML=`<div class="opt-marker">${String.fromCharCode(65+i)}</div><div>${o}</div>`;
+      d.onclick=()=>{if(submitted)return;userState.selected=i;ol.querySelectorAll('.opt').forEach(x=>x.classList.remove('selected'));d.classList.add('selected')};
+      ol.appendChild(d);
+    });
+    body.appendChild(ol);
+  }
+  else if(q.type==='mr'){
+    userState.selected=new Set();
+    const ol=document.createElement('div');ol.className='opt-list';
+    q.options.forEach((o,i)=>{
+      const d=document.createElement('div');d.className='opt';d.dataset.i=i;
+      d.innerHTML=`<div class="opt-marker check">☐</div><div>${o}</div>`;
+      d.onclick=()=>{if(submitted)return;if(userState.selected.has(i)){userState.selected.delete(i);d.classList.remove('selected');d.querySelector('.opt-marker').textContent='☐'}else{userState.selected.add(i);d.classList.add('selected');d.querySelector('.opt-marker').textContent='☑'}};
+      ol.appendChild(d);
+    });
+    body.appendChild(ol);
+  }
+  else if(q.type==='order'){
+    userState.order=q.items.map((_,i)=>i);
+    renderOrder(body,q);
+  }
+  else if(q.type==='categorize'){
+    userState.assignments=new Array(q.items.length).fill(-1);
+    userState.pickedItem=-1;
+    renderCategorize(body,q);
+  }
+  else if(q.type==='table'){
+    userState.cells=q.rows.map(()=>q.columns.map(()=>0));
+    renderTable(body,q);
+  }
+}
+
+function renderOrder(body,q){
+  body.innerHTML='';
+  const ol=document.createElement('div');ol.className='order-list';
+  userState.order.forEach((origIdx,pos)=>{
+    const d=document.createElement('div');d.className='order-item';d.dataset.pos=pos;
+    d.innerHTML=`<div class="arrows"><button onclick="moveOrder(${pos},-1)">▲</button><button onclick="moveOrder(${pos},1)">▼</button></div><div class="order-text">${q.items[origIdx]}</div>`;
+    if(submitted){
+      const correctOrigIdx=q.correctOrder[pos];
+      d.classList.add(origIdx===correctOrigIdx?'correct-show':'wrong-show');
+      d.querySelector('.arrows').querySelectorAll('button').forEach(b=>b.disabled=true);
+    }
+    ol.appendChild(d);
+  });
+  body.appendChild(ol);
+}
+
+function moveOrder(pos,dir){
+  if(submitted)return;
+  const np=pos+dir;
+  if(np<0||np>=userState.order.length)return;
+  [userState.order[pos],userState.order[np]]=[userState.order[np],userState.order[pos]];
+  renderOrder(document.getElementById('qBody'),quizQs[qIdx]);
+}
+
+function renderCategorize(body,q){
+  body.innerHTML='';
+  const chips=document.createElement('div');chips.className='cat-items';
+  q.items.forEach((item,i)=>{
+    const c=document.createElement('div');
+    c.className='cat-chip'+(userState.assignments[i]>=0?' placed':'')+(userState.pickedItem===i?' picked':'');
+    c.textContent=item;
+    c.onclick=()=>{
+      if(submitted)return;
+      if(userState.assignments[i]>=0){userState.assignments[i]=-1;userState.pickedItem=-1;renderCategorize(body,q);return}
+      userState.pickedItem=i;renderCategorize(body,q);
+    };
+    chips.appendChild(c);
+  });
+  body.appendChild(chips);
+
+  const buckets=document.createElement('div');buckets.className='cat-buckets';
+  q.categories.forEach((cat,ci)=>{
+    const b=document.createElement('div');b.className='cat-bucket'+(userState.pickedItem>=0?' highlight':'');
+    b.innerHTML=`<div class="cat-bucket-title">${cat}</div><div class="cat-bucket-items"></div>`;
+    const itemsDiv=b.querySelector('.cat-bucket-items');
+    userState.assignments.forEach((a,ii)=>{
+      if(a===ci){
+        const pc=document.createElement('div');pc.className='placed-chip';pc.textContent=q.items[ii];
+        if(submitted){pc.style.background=q.correctCategories[ii]===ci?'rgba(52,199,89,.3)':'rgba(217,83,79,.3)'}
+        else{pc.onclick=()=>{userState.assignments[ii]=-1;renderCategorize(body,q)}}
+        itemsDiv.appendChild(pc);
+      }
+    });
+    b.onclick=(e)=>{
+      if(submitted||e.target.classList.contains('placed-chip'))return;
+      if(userState.pickedItem>=0){userState.assignments[userState.pickedItem]=ci;userState.pickedItem=-1;renderCategorize(body,q)}
+    };
+    buckets.appendChild(b);
+  });
+  body.appendChild(buckets);
+}
+
+function renderTable(body,q){
+  body.innerHTML='';
+  const t=document.createElement('table');t.className='q-table';
+  const thead=document.createElement('thead');
+  let hr='<tr><th></th>';q.columns.forEach(c=>hr+=`<th>${c}</th>`);hr+='</tr>';
+  thead.innerHTML=hr;t.appendChild(thead);
+  const tbody=document.createElement('tbody');
+  q.rows.forEach((r,ri)=>{
+    const tr=document.createElement('tr');
+    let html=`<td>${r}</td>`;
+    q.columns.forEach((_,ci)=>{
+      const on=userState.cells[ri][ci];
+      let cls='cell-btn'+(on?' on':'');
+      if(submitted){
+        if(q.correctCells[ri][ci]&&on)cls+=' correct-show';
+        else if(q.correctCells[ri][ci]&&!on)cls+=' correct-show';
+        else if(!q.correctCells[ri][ci]&&on)cls+=' wrong-show';
+      }
+      html+=`<td><button class="${cls}" onclick="toggleCell(${ri},${ci})">${on?'✓':''}</button></td>`;
+    });
+    tr.innerHTML=html;tbody.appendChild(tr);
+  });
+  t.appendChild(tbody);body.appendChild(t);
+}
+window.toggleCell=function(ri,ci){
+  if(submitted)return;
+  const q=quizQs[qIdx];
+  // For each row, only one column selected
+  q.columns.forEach((_,c)=>{userState.cells[ri][c]=0});
+  userState.cells[ri][ci]=1;
+  renderTable(document.getElementById('qBody'),q);
+};
+
+function submitAnswer(){
+  if(submitted)return;
+  const q=quizQs[qIdx];
+  let correct=false;
+
+  if(q.type==='mc'||q.type==='graphical'){
+    if(userState.selected<0)return;
+    correct=userState.selected===q.correct;
+    // Show colors
+    document.querySelectorAll('#qBody .opt').forEach(o=>{
+      const i=+o.dataset.i;
+      if(i===q.correct)o.classList.add('correct-show');
+      else if(i===userState.selected)o.classList.add('wrong-show');
+    });
+  }
+  else if(q.type==='mr'){
+    if(userState.selected.size!==q.selectCount)return;
+    const sel=[...userState.selected].sort();
+    const cor=[...q.correctMulti].sort();
+    correct=JSON.stringify(sel)===JSON.stringify(cor);
+    document.querySelectorAll('#qBody .opt').forEach(o=>{
+      const i=+o.dataset.i;
+      if(q.correctMulti.includes(i))o.classList.add('correct-show');
+      else if(userState.selected.has(i))o.classList.add('wrong-show');
+    });
+  }
+  else if(q.type==='order'){
+    correct=userState.order.every((orig,pos)=>orig===q.correctOrder[pos]);
+  }
+  else if(q.type==='categorize'){
+    if(userState.assignments.includes(-1))return;
+    correct=userState.assignments.every((a,i)=>a===q.correctCategories[i]);
+  }
+  else if(q.type==='table'){
+    correct=q.correctCells.every((row,ri)=>row.every((v,ci)=>v===userState.cells[ri][ci]));
+  }
+
+  submitted=true;
+  answers.push({qId:q.id,correct,domain:q.domain});
+
+  // Re-render for showing correct/wrong states
+  if(q.type==='order')renderOrder(document.getElementById('qBody'),q);
+  if(q.type==='categorize')renderCategorize(document.getElementById('qBody'),q);
+  if(q.type==='table')renderTable(document.getElementById('qBody'),q);
+
+  // Explanation
+  const exp=document.getElementById('qExplanation');
+  exp.style.display='';
+  exp.innerHTML=`<div class="explanation ${correct?'':'wrong'}"><h4>${correct?'✅ Correct!':'❌ Incorrect'}</h4><p>${q.explanation}</p></div>${q.pearl?`<div class="pearl"><strong>💡 Clinical Pearl:</strong> ${q.pearl}</div>`:''}`;
+
+  document.getElementById('submitBtn').style.display='none';
+  document.getElementById('nextBtn').style.display='';
+}
+
+function nextQuestion(){
+  qIdx++;
+  if(qIdx>=quizQs.length){showResults();return}
+  renderQuestion();
+  window.scrollTo(0,0);
+}
+
+function showResults(){
+  show('results');
+  const total=answers.length;
+  const correct=answers.filter(a=>a.correct).length;
+  const pct=Math.round((correct/total)*100);
+  document.getElementById('resPct').textContent=pct+'%';
+  const tier=pct>=90?'🏆 Mastery':pct>=75?'✅ Proficient':pct>=60?'📚 Developing':'⚠️ Needs Review';
+  document.getElementById('resTier').textContent=tier;
+
+  // Domain breakdown
+  const db=document.getElementById('domainBreakdown');db.innerHTML='';
+  const domMap={};
+  answers.forEach(a=>{if(!domMap[a.domain])domMap[a.domain]={c:0,t:0};domMap[a.domain].t++;if(a.correct)domMap[a.domain].c++});
+  Object.entries(domMap).forEach(([d,v])=>{
+    const p=Math.round((v.c/v.t)*100);
+    const color=p>=75?'#34c759':p>=50?'#f0ad4e':'#d9534f';
+    db.innerHTML+=`<div class="domain-bar"><div class="domain-bar-label"><span>${d}</span><span>${v.c}/${v.t}</span></div><div class="domain-bar-track"><div class="domain-bar-fill" style="width:${p}%;background:${color}"></div></div></div>`;
+  });
+
+  // Review
+  const rl=document.getElementById('reviewList');rl.innerHTML='';
+  answers.forEach((a,i)=>{
+    const q=quizQs[i];
+    rl.innerHTML+=`<div class="review-item ${a.correct?'rev-correct':'rev-wrong'}"><div class="review-q">${a.correct?'✅':'❌'} Q${i+1}: ${q.question.substring(0,80)}...</div><div class="review-a">${q.explanation.substring(0,120)}...</div></div>`;
+  });
+}
+
+buildDomains();
+</script>
+</body>
+</html>
